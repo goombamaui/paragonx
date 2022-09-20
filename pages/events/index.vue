@@ -2,7 +2,7 @@
   <div>
     <v-container>
       <h2 class="text-h2 text-center">
-        ParagonX events and courses
+        ParagonX Academy events and courses
       </h2>
       <div style="width: 80px; height: 4px" class="my-4 white mx-auto" />
     </v-container>

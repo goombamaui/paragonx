@@ -2,7 +2,7 @@
   <div>
     <v-container>
       <h2 class="text-h2 text-center">
-        People behind ParagonX
+        People behind ParagonX Academy
       </h2>
       <div style="width: 80px; height: 4px" class="my-4 white mx-auto" />
     </v-container>
