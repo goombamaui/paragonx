@@ -4,7 +4,7 @@
       <h2 class="text-h2 text-center">
         ParagonX Academy events and courses
       </h2>
-      <div style="width: 80px; height: 4px" class="my-4 white mx-auto" />
+      <div style="width: 80px; height: 4px" class="my-4 secondary mx-auto" />
     </v-container>
     <v-container class="mt-2">
       <h4 class="text-h4 text-left">
