@@ -1,10 +1,13 @@
 <template>
   <div>
     <v-container>
-      <h2 class="text-h2 text-center">
+      <h2 class="text-md-h2 text-h3 text-center">
         ParagonX Academy events and courses
       </h2>
       <div style="width: 80px; height: 4px" class="my-4 secondary mx-auto" />
+      <div class="grey--text text--lighten-2 mt-4 text-body-1 text-center">
+        Click on cards to see details and registration information.
+      </div>
     </v-container>
     <v-container class="mt-2">
       <h4 class="text-h4 text-left">

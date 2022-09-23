@@ -8,6 +8,7 @@ instructor: Thomas Liu (USACO Platinum)
 description: 'This course is for students who have a basic understanding of C++, Java, or Python and are aiming to pass USACO Bronze.'
 registration: 'https://docs.google.com/forms/d/e/1FAIpQLScXiPexFEZYPuBjl0YQ_3mA1yWBNNBOw0JGZNlpX_PtWvGEbw/viewform'
 type: 'Online Class'
+open: True
 ---
 
 ## Description

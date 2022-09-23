@@ -1,7 +1,7 @@
 <template>
   <div>
     <v-container>
-      <h2 class="text-h2 text-center">
+      <h2 class="text-md-h2 text-h3 text-center">
         People behind ParagonX Academy
       </h2>
       <div style="width: 80px; height: 4px" class="my-4 secondary mx-auto" />

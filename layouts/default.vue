@@ -23,7 +23,7 @@
       </v-icon>
     </v-btn>
 
-    <v-app-bar app>
+    <v-app-bar app height="80">
       <v-app-bar-nav-icon class="d-md-none" @click="drawer = !drawer" />
       <v-container class="py-0 px-0 px-sm-2 fill-height">
         <nuxt-link to="/" class="d-flex align-center text-decoration-none mr-2">

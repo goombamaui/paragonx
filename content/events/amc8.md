@@ -8,6 +8,7 @@ instructor: Alex Huang (National Mathcounts, AIME)
 description: 'This course is for students who have a solid understanding of Algebra 1 and Geometry and are aiming for a high score on the AMC 8.'
 registration: 'https://docs.google.com/forms/d/e/1FAIpQLSd6NVf4xtSojYC6_1-zr_FqvPd1qg8BKdc1OEyl9tS34SoDqA/viewform'
 type: 'In-Person Class'
+open: True
 ---
 
 ## Description

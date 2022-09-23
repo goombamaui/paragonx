@@ -8,6 +8,7 @@ instructor: Austin Geng (MOP, USACO Finalist)
 description: 'This course is for students with experience in the AMCs that are aiming to qualify for and score some points on the AIME.'
 registration: 'https://docs.google.com/forms/d/e/1FAIpQLSfmTC_5BycNk71s4ymWSOrAHd2MBPDGk6H19MnwOq81Ma4gpw/viewform'
 type: 'Online Class'
+open: True
 ---
 
 ## Description

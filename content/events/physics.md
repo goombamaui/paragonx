@@ -8,6 +8,7 @@ instructor: Aniketh Tummala (USAPHO, USACO Platinum)
 description: 'This course is for students looking for a basic understanding of physics concepts and are preparing for AP Physics 1 or F=ma.'
 registration: 'https://docs.google.com/forms/d/e/1FAIpQLSdqh-HGUiAypr3O_49zfk_lYyTVTh3Ak1rvePVMRh_Ng8jjug/viewform'
 type: 'Online Class'
+open: True
 ---
 
 ## Description

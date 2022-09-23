@@ -1,7 +1,7 @@
 <template>
   <div>
     <v-container class="text-center">
-      <h1 class="text-h1  mt-md-6">
+      <h1 class="text-md-h1 text-h3  mt-md-6">
         Highest quality of <span class="primary--text">STEM education</span> for our <span class="primary--text">community</span>
       </h1>
       <div class="grey--text text--lighten-2 mt-4 text-body-1">
@@ -42,7 +42,7 @@
     </v-container>
 
     <v-container class="mt-4">
-      <h3 class="text-h3 text-center">
+      <h3 class="text-md-h3 text-h4 text-center">
         Features of our classes
       </h3>
       <div class="mt-6">

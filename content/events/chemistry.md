@@ -8,6 +8,7 @@ instructor: Gautam Bhooma (Science Bowl National Championships)
 description: 'This course aims to teach students introductory chemistry and create a base on which students can prepare for chemistry contests like USNCO.'
 registration: 'https://docs.google.com/forms/d/e/1FAIpQLSe1a4ulp7FkhqW0yRzuj53JzrzKwUL-l685Ntx0P90c4AkbHg/viewform'
 type: 'Online Class'
+open: True
 ---
 
 ## Description
