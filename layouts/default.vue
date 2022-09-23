@@ -13,16 +13,6 @@
       </v-list>
     </v-navigation-drawer>
 
-    <v-btn
-      class="d-md-none drawer-button"
-      rounded
-      @click="drawer = !drawer"
-    >
-      <v-icon right>
-        mdi-menu
-      </v-icon>
-    </v-btn>
-
     <v-app-bar app height="80">
       <v-app-bar-nav-icon class="d-md-none" @click="drawer = !drawer" />
       <v-container class="py-0 px-0 px-sm-2 fill-height">
