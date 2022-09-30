@@ -7,18 +7,20 @@
         </v-subheader>
         <v-list-item v-for="(item, index) in routes" :key="index" :to="item.link">
           <v-list-item-content>
-            <v-list-item-title>{{ item.title }}</v-list-item-title>
+            <v-list-item-title>
+              {{ item.title }}
+            </v-list-item-title>
           </v-list-item-content>
         </v-list-item>
       </v-list>
     </v-navigation-drawer>
 
-    <v-app-bar app height="80">
+    <v-app-bar app>
       <v-app-bar-nav-icon class="d-md-none" @click="drawer = !drawer" />
       <v-container class="py-0 px-0 px-sm-2 fill-height">
         <nuxt-link to="/" class="d-flex align-center text-decoration-none mr-2">
-          <img src="/images/logo.png" alt="" height="48" class="mr-1">
-          <span class="font-weight-black text-uppercase text-h5 ml-1">
+          <img src="/images/logo.png" alt="" height="40" class="mr-1">
+          <span class="font-weight-black text-uppercase text-sm-h5 text-h6 ml-1">
             ParagonX <span class="white--text">Academy</span>
           </span>
         </nuxt-link>

@@ -8,10 +8,10 @@
         ParagonX Academy is a 501(c)(3) student-led non-profit organization that strives to provide high-quality, readily available STEM education to everyone in need through free curricula.
       </div>
       <div class="mt-6">
-        <v-btn x-large depressed to="/events" color="primary" class="mr-2">
+        <v-btn x-large depressed to="/events" color="primary" class="my-1 mr-sm-1 w-full w-sm-auto">
           Events and Courses
         </v-btn>
-        <v-btn x-large outlined href="https://discord.com/invite/kSXnnMm244" target="_blank">
+        <v-btn x-large outlined href="https://discord.com/invite/kSXnnMm244" target="_blank" class="my-1 ml-sm-1 w-full w-sm-auto">
           Join Discord
         </v-btn>
       </div>
