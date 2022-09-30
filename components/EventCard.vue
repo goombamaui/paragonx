@@ -1,8 +1,18 @@
 <template>
   <v-card :to="link">
     <div class="pa-2 pa-md-3">
-      <div class="text-uppercase font-weight-black text-body-2 primary--text mb-1">
-        {{ event.location }}
+      <div class="mb-1">
+        <span class="text-uppercase font-weight-black text-body-2 primary--text">
+          {{ event.location }}
+        </span>
+        <span class="float-right">
+          <v-chip v-if="event.open===true" text-color="white" color="green" class="ma-1">
+            Open
+          </v-chip>
+          <v-chip v-else class="ma-1">
+            Closed
+          </v-chip>
+        </span>
       </div>
       <div class="title font-weight-bold text-h6">
         {{ event.title }}
