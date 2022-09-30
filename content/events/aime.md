@@ -18,32 +18,10 @@ This course is for students with experience in the AMCs (able to solve around 10
 ## Syllabus
 
 1. Introduction
-    - Overview of AMC, difficulty & pacing
-    - Doing easy problems, quickly and reliably
-    - Test and organization tips
 2. Elementary Geometry (G)
-    - Volumes
-    - Transformations & symmetry
 3. Synthetic Geometry (G)
-    - Constructive
-    - 3D
 4. Probability (C)
-    - Urn problems
-    - Rolling dice
-    - Geometric probability
 5. Counting (C)
-    - Counting assignments
-    - Paths on a graph
-    - Game theory
 6. Algebra (A)
-    - Digits & bases
-    - Rates & time
 7. Functions (A)
-    - Graphing
-    - Counting solutions
-    - Optimization
-    - Recursions & sequences
 8. Number Theory (N)
-    - Remainders
-    - Factorization
-    - Counting integers
