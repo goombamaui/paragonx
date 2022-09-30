@@ -2,14 +2,17 @@
   <div>
     <v-container class="text-center">
       <h1 class="text-md-h1 text-h3  mt-md-6">
-        Highest quality of <span class="primary--text">STEM education</span> for our <span class="primary--text">community</span>
+        Quality <span class="primary--text">STEM education</span> for our <span class="primary--text">community</span>
       </h1>
       <div class="grey--text text--lighten-2 mt-4 text-body-1">
-        ParagonX Academy strives to provide the highest quality of STEM education to everyone in need through free curricular.
+        ParagonX Academy is a 501(c)(3) student-led non-profit organization that strives to provide high-quality, readily available STEM education to everyone in need through free curricula.
       </div>
       <div class="mt-6">
-        <v-btn x-large outlined to="/events">
+        <v-btn x-large depressed to="/events" color="primary" class="mr-2">
           Events and Courses
+        </v-btn>
+        <v-btn x-large outlined href="https://discord.com/invite/kSXnnMm244" target="_blank">
+          Join Discord
         </v-btn>
       </div>
     </v-container>
