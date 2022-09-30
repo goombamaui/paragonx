@@ -18,7 +18,7 @@
             <div class="text-h5">
               {{ person.name }}
             </div>
-            <div class="text-h6 secondary--text">
+            <div v-if="person.title" class="text-h6 secondary--text">
               {{ person.title }}
             </div>
             <div class="text-body-1 mt-2">
@@ -78,6 +78,11 @@ export default {
           title: 'Vice President of Events',
           image: '/images/bio/alex.jpg',
           bio: 'Alex Huang is a sophomore at The Harker School who is a 2021 MathCounts National Round qualifier and two-time AIME qualifier. Fluent in C++, Java, and Python, he is interested in both competitive programming and machine learning research. In his free time, he likes reading historical fiction and doing speech and debate.'
+        },
+        {
+          name: 'Dustin Miao',
+          image: '/images/bio/dustin.jpg',
+          bio: 'Dustin is a junior at the Harker School who is passionate about computer science. He is in USAC\'s platinum division and a master on Codeforces, and is also interested in web development and artificial intelligence. In is spare time, he enjoys playing cello.'
         }
       ]
     }
