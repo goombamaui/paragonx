@@ -19,7 +19,7 @@
           <v-btn v-if="content.open" color="primary" large :href="content.registration" target="_blank">
             Register
           </v-btn>
-          <v-btn v-else color="primary" large disabled>
+          <v-btn v-else color="error" large disabled>
             Registration Closed
           </v-btn>
         </span>
@@ -27,6 +27,9 @@
     </v-container>
     <v-container>
       <div class="d-none d-sm-block">
+        <v-chip v-if="content.open===true" color="green" class="mr-1 mb-2">
+          Registration Open
+        </v-chip>
         <v-chip v-if="content.instructor" class="mr-1 mb-2">
           {{ content.instructor }}
         </v-chip>
@@ -42,11 +45,8 @@
         <v-chip class="mr-1 mb-2">
           {{ content.time }}
         </v-chip>
-        <v-chip v-if="content.open===true" text-color="white" color="green" class="mr-1 mb-2">
-          Open
-        </v-chip>
-        <v-chip v-else class="mr-1 mb-2">
-          Closed
+        <v-chip v-if="content.attendees" class="mr-1 mb-2">
+          {{ content.attendees }}
         </v-chip>
       </div>
       <div class="d-sm-none">

@@ -33,6 +33,9 @@
         <v-chip v-if="event.instructor" small class="mr-1 mb-2">
           {{ event.instructor.replace(/ *\([^)]*\) */g, "") }}
         </v-chip>
+        <v-chip v-if="event.attendees" small class="mr-1 mb-2">
+          {{ event.attendees }}
+        </v-chip>
       </div>
     </div>
   </v-card>
