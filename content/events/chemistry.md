@@ -9,6 +9,7 @@ description: 'This course aims to teach students introductory chemistry and crea
 registration: 'https://docs.google.com/forms/d/e/1FAIpQLSe1a4ulp7FkhqW0yRzuj53JzrzKwUL-l685Ntx0P90c4AkbHg/viewform'
 type: 'Online Class'
 open: True
+zoom: 'https://us06web.zoom.us/j/5717486425?pwd=bGw0MEJCellLR2lhQldTS3FPYjFtQT09'
 ---
 
 ## Description

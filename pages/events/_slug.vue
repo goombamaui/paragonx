@@ -6,14 +6,22 @@
           {{ content.title }}
         </span>
         <span class="sm-text-right float-right mr-2 d-none d-sm-block">
+          <v-btn
+            v-if="content.zoom"
+            outlined
+            large
+            :href="content.zoom"
+            target="_blank"
+            class="mr-1"
+          >
+            Zoom Link
+          </v-btn>
           <v-btn v-if="content.open" color="primary" large :href="content.registration" target="_blank">
             Register
           </v-btn>
-          <span v-else>
-            <span class="text-body-1 mr-2">Registration Is Closed</span>
-            <v-btn color="primary" large disabled>
-              Register
-            </v-btn></span>
+          <v-btn v-else color="primary" large disabled>
+            Registration Closed
+          </v-btn>
         </span>
       </div>
     </v-container>
@@ -89,27 +97,38 @@
           </v-list-item-content>
         </v-list-item>
       </div>
-      <div class="mt-1 d-sm-none">
-        <v-btn
-          v-if="content.open"
-          block
-          color="primary"
-          large
-          :href="content.registration"
-          target="_blank"
-        >
-          Register
-        </v-btn>
-        <v-btn
-          v-else
-          block
-          color="primary"
-          large
-          disabled
-        >
-          Registration Closed
-        </v-btn>
-      </div>
+    </v-container>
+    <v-container class="d-sm-none">
+      <v-btn
+        v-if="content.open"
+        block
+        color="primary"
+        large
+        :href="content.registration"
+        target="_blank"
+      >
+        Register
+      </v-btn>
+      <v-btn
+        v-else
+        block
+        color="primary"
+        large
+        disabled
+      >
+        Registration Closed
+      </v-btn>
+      <v-btn
+        v-if="content.zoom"
+        block
+        outlined
+        large
+        :href="content.zoom"
+        target="_blank"
+        class="mt-1"
+      >
+        Zoom Link
+      </v-btn>
     </v-container>
     <v-container>
       <nuxt-content :document="content" />

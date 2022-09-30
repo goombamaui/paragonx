@@ -9,6 +9,7 @@ description: 'This course is for students with experience in the AMCs that are a
 registration: 'https://docs.google.com/forms/d/e/1FAIpQLSfmTC_5BycNk71s4ymWSOrAHd2MBPDGk6H19MnwOq81Ma4gpw/viewform'
 type: 'Online Class'
 open: True
+zoom: 'https://us06web.zoom.us/j/5717486425?pwd=bGw0MEJCellLR2lhQldTS3FPYjFtQT09'
 ---
 
 ## Description

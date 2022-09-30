@@ -9,6 +9,7 @@ description: 'This course is designed to teach the basics of C++, and is intende
 registration: 'https://docs.google.com/forms/d/e/1FAIpQLSdPWZHNn-CB5nSXa5MazrcWXOV3yM6duLkaHyPBZLmwKhcXHg/viewform'
 type: 'In-Person Class'
 open: True
+
 ---
 
 ## Description

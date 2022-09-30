@@ -9,6 +9,7 @@ description: 'This course is for students who have a basic understanding of C++,
 registration: 'https://docs.google.com/forms/d/e/1FAIpQLScXiPexFEZYPuBjl0YQ_3mA1yWBNNBOw0JGZNlpX_PtWvGEbw/viewform'
 type: 'Online Class'
 open: True
+zoom: 'https://us06web.zoom.us/j/5717486425?pwd=bGw0MEJCellLR2lhQldTS3FPYjFtQT09'
 ---
 
 ## Description

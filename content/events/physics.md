@@ -9,6 +9,7 @@ description: 'This course is for students looking for a basic understanding of p
 registration: 'https://docs.google.com/forms/d/e/1FAIpQLSdqh-HGUiAypr3O_49zfk_lYyTVTh3Ak1rvePVMRh_Ng8jjug/viewform'
 type: 'Online Class'
 open: True
+zoom: 'https://us06web.zoom.us/j/5717486425?pwd=bGw0MEJCellLR2lhQldTS3FPYjFtQT09'
 ---
 
 ## Description
