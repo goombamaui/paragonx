@@ -46,18 +46,7 @@
     </v-main>
     <v-footer>
       <v-container>
-        <div class="d-flex flex-wrap align-center justify-center font-weight-bold text-uppercase body-2">
-          <nuxt-link to="/" class="text-decoration-none mx-2 mb-1">
-            Home
-          </nuxt-link>
-          <nuxt-link to="/events" class="text-decoration-none mx-2 mb-1">
-            Events
-          </nuxt-link>
-          <nuxt-link to="/about" class="text-decoration-none mx-2 mb-1">
-            About
-          </nuxt-link>
-        </div>
-        <div class="d-flex flex-column flex-sm-row align-center justify-center mt-4 overline">
+        <div class="d-flex flex-column flex-sm-row align-center justify-center mt-1 overline">
           <div class="secondary--text">
             © ParagonX Academy
           </div>
