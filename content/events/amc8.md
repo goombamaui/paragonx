@@ -1,5 +1,5 @@
 ---
-title: 'Intermediate-Advanced AMC 8'
+title: 'Int-Adv AMC 8'
 location: Cupertino Library
 time: '11 AM-12 PM PDT'
 dateStart: '2022-10-09'
