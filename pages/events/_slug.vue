@@ -1,37 +1,115 @@
 <template>
   <div>
     <v-container>
-      <v-row>
-        <v-col cols="12" md="10">
-          <h3 class="text-md-h3 text-h4">
-            {{ content.title }}
-          </h3>
-        </v-col>
-        <v-col cols="12" md="2">
-          <div class="sm-text-right">
-            <v-btn color="primary" large :href="content.registration" target="_blank">
+      <div>
+        <span class="text-md-h3 text-h4">
+          {{ content.title }}
+        </span>
+        <span class="sm-text-right float-right mr-2 d-none d-sm-block">
+          <v-btn v-if="content.open" color="primary" large :href="content.registration" target="_blank">
+            Register
+          </v-btn>
+          <span v-else>
+            <span class="text-body-1 mr-2">Registration Is Closed</span>
+            <v-btn color="primary" large disabled>
               Register
-            </v-btn>
-          </div>
-        </v-col>
-      </v-row>
+            </v-btn></span>
+        </span>
+      </div>
     </v-container>
     <v-container>
-      <v-chip v-if="content.instructor" class="mr-1 mb-2">
-        {{ content.instructor }}
-      </v-chip>
-      <v-chip class="mr-1 mb-2">
-        @{{ content.location }}
-      </v-chip>
-      <v-chip v-if="content.dateEnd" class="mr-1 mb-2">
-        {{ content.dateStart | formatDate }} to {{ content.dateEnd | formatDate }}
-      </v-chip>
-      <v-chip v-else class="mr-1 mb-2">
-        {{ content.dateStart | formatDate }}
-      </v-chip>
-      <v-chip class="mr-1 mb-2">
-        {{ content.time }}
-      </v-chip>
+      <div class="d-none d-sm-block">
+        <v-chip v-if="content.instructor" class="mr-1 mb-2">
+          {{ content.instructor }}
+        </v-chip>
+        <v-chip class="mr-1 mb-2">
+          @{{ content.location }}
+        </v-chip>
+        <v-chip v-if="content.dateEnd" class="mr-1 mb-2">
+          {{ content.dateStart | formatDate }} to {{ content.dateEnd | formatDate }}
+        </v-chip>
+        <v-chip v-else class="mr-1 mb-2">
+          {{ content.dateStart | formatDate }}
+        </v-chip>
+        <v-chip class="mr-1 mb-2">
+          {{ content.time }}
+        </v-chip>
+        <v-chip v-if="content.open===true" text-color="white" color="green" class="mr-1 mb-2">
+          Open
+        </v-chip>
+        <v-chip v-else class="mr-1 mb-2">
+          Closed
+        </v-chip>
+      </div>
+      <div class="d-sm-none">
+        <v-list-item v-if="content.instructor" class="pl-0">
+          <v-list-item-avatar>
+            <v-icon>mdi-account</v-icon>
+          </v-list-item-avatar>
+          <v-list-item-content>
+            <v-list-item-title>
+              {{ content.instructor }}
+            </v-list-item-title>
+          </v-list-item-content>
+        </v-list-item>
+        <v-list-item class="pl-0">
+          <v-list-item-avatar>
+            <v-icon>mdi-map-marker</v-icon>
+          </v-list-item-avatar>
+          <v-list-item-content>
+            <v-list-item-title>
+              {{ content.location }}
+            </v-list-item-title>
+          </v-list-item-content>
+        </v-list-item>
+        <v-list-item class="pl-0">
+          <v-list-item-avatar>
+            <v-icon>mdi-calendar</v-icon>
+          </v-list-item-avatar>
+          <v-list-item-content>
+            <v-list-item-title>
+              <span v-if="content.dateEnd" class="mr-1 mb-2">
+                {{ content.dateStart | formatDate }} to {{ content.dateEnd | formatDate }}
+              </span>
+              <span v-else class="mr-1 mb-2">
+                {{ content.dateStart | formatDate }}
+              </span>
+            </v-list-item-title>
+          </v-list-item-content>
+        </v-list-item>
+
+        <v-list-item class="pl-0">
+          <v-list-item-avatar>
+            <v-icon>mdi-clock-time-two</v-icon>
+          </v-list-item-avatar>
+          <v-list-item-content>
+            <v-list-item-title>
+              {{ content.time }}
+            </v-list-item-title>
+          </v-list-item-content>
+        </v-list-item>
+      </div>
+      <div class="mt-1 d-sm-none">
+        <v-btn
+          v-if="content.open"
+          block
+          color="primary"
+          large
+          :href="content.registration"
+          target="_blank"
+        >
+          Register
+        </v-btn>
+        <v-btn
+          v-else
+          block
+          color="primary"
+          large
+          disabled
+        >
+          Registration Closed
+        </v-btn>
+      </div>
     </v-container>
     <v-container>
       <nuxt-content :document="content" />
