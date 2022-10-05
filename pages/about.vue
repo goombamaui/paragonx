@@ -80,6 +80,12 @@ export default {
           bio: 'Alex Huang is a sophomore at The Harker School who is a 2021 MathCounts National Round qualifier and two-time AIME qualifier. Fluent in C++, Java, and Python, he is interested in both competitive programming and machine learning research. In his free time, he likes reading historical fiction and doing speech and debate.'
         },
         {
+          name: 'Arjun Gurjar',
+          title: 'Vice President of Biology',
+          image: '/images/bio/arjun.jpg',
+          bio: 'Arjun Gurjar is a junior at The Harker School. In addition to being a nationalist in the North South Science Bee, he is passionate about biology and has many years of experience in teaching students as well as conducting wet lab research. When he isn’t studying for USABO, Arjun likes editing videos, going on walks, and listening to music.'
+        },
+        {
           name: 'Dustin Miao',
           image: '/images/bio/dustin.jpg',
           bio: 'Dustin is a junior at the Harker School who is passionate about computer science. He is in USAC\'s platinum division and a master on Codeforces, and is also interested in web development and artificial intelligence. In is spare time, he enjoys playing cello.'
