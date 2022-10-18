@@ -73,6 +73,18 @@ export default {
     const events = await $content('events').sortBy('dateStart', 'asc').fetch()
     return { events }
   },
+  head () {
+    return {
+      title: 'Events',
+      meta: [
+        {
+          hid: 'description',
+          name: 'description',
+          content: 'ParagonX Academy is a 501(c)(3) student-led non-profit organization that strives to provide high-quality, readily available STEM education to everyone in need through free curricula.'
+        }
+      ]
+    }
+  },
   computed: {
     onlineClasses () {
       return this.events.filter(event => event.type === 'Online Class')

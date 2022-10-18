@@ -6,8 +6,8 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    titleTemplate: '%s - paragonx',
-    title: 'paragonx',
+    titleTemplate: '%s - ParagonX Academy',
+    title: 'Home',
     htmlAttrs: {
       lang: 'en'
     },

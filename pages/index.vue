@@ -115,6 +115,18 @@ export default {
         description: 'This fall, our courses consist of eight classes, and the curriculum spanning these classes have been carefully cultivated by our instructors to maximize the usefulness and quality of knowledge that students will gain. Homework will also be assigned after each class. '
       }]
     }
+  },
+  head () {
+    return {
+      title: 'Home',
+      meta: [
+        {
+          hid: 'description',
+          name: 'description',
+          content: 'ParagonX Academy is a 501(c)(3) student-led non-profit organization that strives to provide high-quality, readily available STEM education to everyone in need through free curricula.'
+        }
+      ]
+    }
   }
 }
 </script>

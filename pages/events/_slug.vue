@@ -145,6 +145,18 @@ export default {
     } else {
       return { content }
     }
+  },
+  head () {
+    return {
+      title: this.content.title,
+      meta: [
+        {
+          hid: 'description',
+          name: 'description',
+          content: this.content.description || this.content.title
+        }
+      ]
+    }
   }
 }
 </script>

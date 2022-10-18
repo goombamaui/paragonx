@@ -92,6 +92,18 @@ export default {
         }
       ]
     }
+  },
+  head () {
+    return {
+      title: 'About',
+      meta: [
+        {
+          hid: 'description',
+          name: 'description',
+          content: 'ParagonX Academy is a 501(c)(3) student-led non-profit organization that strives to provide high-quality, readily available STEM education to everyone in need through free curricula.'
+        }
+      ]
+    }
   }
 }
 </script>
