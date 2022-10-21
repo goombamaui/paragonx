@@ -89,6 +89,11 @@ export default {
           name: 'Dustin Miao',
           image: '/images/bio/dustin.jpg',
           bio: 'Dustin is a junior at the Harker School who is passionate about computer science. He is in USAC\'s platinum division and a master on Codeforces, and is also interested in web development and artificial intelligence. In is spare time, he enjoys playing cello.'
+        },
+        {
+          name: 'Henry Yao',
+          image: '/images/bio/henry.png',
+          bio: 'Henry is a junior at Lynbrook High School. He is passionate about STEM overall, and has won USAJMO HM and AMC10 DHR three times, and came close to USAPHO along with 5\'s in most AP Physics content. He is also passionate about STEM research and has taught and TA\'d classes at Alphastar and other summer camps.  When he isn\'t grinding school, Henry enjoys biking, eating food, and listening to music.'
         }
       ]
     }
