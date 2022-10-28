@@ -88,7 +88,7 @@ export default {
         {
           name: 'Dustin Miao',
           image: '/images/bio/dustin.jpg',
-          bio: 'Dustin is a junior at the Harker School who is passionate about computer science. He is in USAC\'s platinum division and a master on Codeforces, and is also interested in web development and artificial intelligence. In is spare time, he enjoys playing cello.'
+          bio: 'Dustin is a junior at the Harker School who is passionate about computer science. He is in USACO\'s platinum division and a master on Codeforces, and is also interested in web development and artificial intelligence. In is spare time, he enjoys playing cello.'
         },
         {
           name: 'Henry Yao',
