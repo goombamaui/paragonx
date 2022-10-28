@@ -16,12 +16,14 @@
           >
             Zoom Link
           </v-btn>
-          <v-btn v-if="content.open" color="primary" large :href="content.registration" target="_blank">
-            Register
-          </v-btn>
-          <v-btn v-else color="error" large disabled>
-            Registration Closed
-          </v-btn>
+          <div v-if="content.registration">
+            <v-btn v-if="content.open" color="primary" large :href="content.registration" target="_blank">
+              Register
+            </v-btn>
+            <v-btn v-else color="error" large disabled>
+              Registration Closed
+            </v-btn>
+          </div>
         </span>
       </div>
     </v-container>

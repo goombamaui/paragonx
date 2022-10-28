@@ -87,13 +87,13 @@ export default {
   },
   computed: {
     onlineClasses () {
-      return this.events.filter(event => event.type === 'Online Class')
+      return this.events.filter(event => event.type === 'Online Class' && event.open).concat(this.events.filter(event => event.type === 'Online Class' && !event.open))
     },
     inPersonClasses () {
-      return this.events.filter(event => event.type === 'In-Person Class')
+      return this.events.filter(event => event.type === 'In-Person Class' && event.open).concat(this.events.filter(event => event.type === 'In-Person Class' && !event.open))
     },
     speakerEvents () {
-      return this.events.filter(event => event.type === 'Speaker Event')
+      return this.events.filter(event => event.type === 'Speaker Event' && event.open).concat(this.events.filter(event => event.type === 'Speaker Event' && !event.open))
     }
   }
 }
