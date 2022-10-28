@@ -94,6 +94,11 @@ export default {
           name: 'Henry Yao',
           image: '/images/bio/henry.png',
           bio: 'Henry is a junior at Lynbrook High School. He is passionate about STEM overall, and has won USAJMO HM and AMC10 DHR three times, and came close to USAPHO along with 5\'s in most AP Physics content. He is also passionate about STEM research and has taught and TA\'d classes at Alphastar and other summer camps.  When he isn\'t grinding school, Henry enjoys biking, eating food, and listening to music.'
+        },
+        {
+          name: 'Neil Krishnan',
+          image: '/images/bio/neil.jpg',
+          bio: 'Neil Krishnan is a sophmore at The Harker School. In addition to getting 1st award in Synopsys Physical Sciences & Engineering and qualifying for CSEF and Broadcom Masters, he has had large success in math competitions, especially Berkeley Math Tournament, AMC 10, and AIME. In his free time, he enjoys playing piano and bicycling.'
         }
       ]
     }
