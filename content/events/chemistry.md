@@ -1,7 +1,7 @@
 ---
 title: 'Chemistry/USNCO'
 location: Zoom
-time: '4 PM-5 PM PDT'
+time: '4 PM-5 PM PT'
 dateStart: '2022-10-02'
 dateEnd: '2022-11-20'
 instructor: Gautam Bhooma (Science Bowl National Championships)

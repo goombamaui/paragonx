@@ -1,7 +1,7 @@
 ---
 title: 'Biology/USABO'
 location: Zoom
-time: '3 PM-4 PM PDT'
+time: '3 PM-4 PM PT'
 dateStart: '2022-10-15'
 dateEnd: '2022-12-03'
 instructor: Arjun Gurjar

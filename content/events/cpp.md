@@ -1,7 +1,7 @@
 ---
 title: 'C++'
 location: Saratoga Library
-time: '11 AM-12 PM PDT'
+time: '11 AM-12 PM PT'
 dateStart: '2022-10-08'
 dateEnd: '2022-11-19'
 instructor: Dustin Miao (USACO Platinum)

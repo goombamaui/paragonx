@@ -1,7 +1,7 @@
 ---
 title: 'AMC 10/12 to AIME'
 location: Zoom
-time: '1 PM-2 PM PDT'
+time: '1 PM-2 PM PT'
 dateStart: '2022-10-01'
 dateEnd: '2022-11-19'
 instructor: Austin Geng (MOP, USACO Finalist)

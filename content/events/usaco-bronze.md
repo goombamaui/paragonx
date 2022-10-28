@@ -1,7 +1,7 @@
 ---
 title: 'USACO Bronze'
 location: Zoom
-time: '10 AM-11 AM PDT'
+time: '10 AM-11 AM PT'
 dateStart: '2022-10-02'
 dateEnd: '2022-11-20'
 instructor: Thomas Liu (USACO Platinum)

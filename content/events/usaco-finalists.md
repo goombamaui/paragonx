@@ -1,7 +1,7 @@
 ---
 title: 'USACO Finalists'
 location: Zoom
-time: '2 PM-3 PM PDT'
+time: '2 PM-3 PM PT'
 dateStart: '2022-09-24'
 description: 'Speaker event with four USACO finalists: Joe Li (Harker ‘24), Bobby Costin (Harker ‘24), Allen Wu (Newport ‘25), and Austin Geng (Benjamin Franklin ‘24)'
 registration: 'https://tiny.cc/ParagonXUSACO'

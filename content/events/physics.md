@@ -1,7 +1,7 @@
 ---
 title: 'Physics/F=ma'
 location: Zoom
-time: '10 AM-11 AM PDT'
+time: '10 AM-11 AM PT'
 dateStart: '2022-10-01'
 dateEnd: '2022-11-19'
 instructor: Aniketh Tummala (USAPHO, USACO Platinum)

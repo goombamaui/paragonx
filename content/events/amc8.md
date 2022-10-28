@@ -1,7 +1,7 @@
 ---
 title: 'Int-Adv AMC 8'
 location: Cupertino Library
-time: '11 AM-12 PM PDT'
+time: '11 AM-12 PM PT'
 dateStart: '2022-10-09'
 dateEnd: '2022-11-20'
 instructor: Alex Huang (National Mathcounts, AIME)
