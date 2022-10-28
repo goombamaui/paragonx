@@ -3,7 +3,7 @@ title: 'Biology/USABO'
 location: Zoom
 time: '3 PM-4 PM PDT'
 dateStart: '2022-10-15'
-dateEnd: '2022-11-19'
+dateEnd: '2022-12-03'
 instructor: Arjun Gurjar
 description: 'This course is intended for students who are interested in biology and want to participate in the USABO.'
 registration: 'https://docs.google.com/forms/d/e/1FAIpQLSdjBIIDGpFhPAcGgVUkGNpwlW_V04QIUdcNS7xHeTILm2hWag/viewform'
