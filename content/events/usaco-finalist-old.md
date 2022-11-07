@@ -2,10 +2,10 @@
 title: 'Yibo Huang: USACO Finalist'
 location: Zoom
 time: '5 PM-6 PM PT'
-dateStart: '2022-12-12'
+dateStart: '2021-12-12'
 description: 'First speaker event with Yibo Huang, a 2020 ACM-ICPC contestant, 2019 Facebook Hacker Cup Round 3 contestant, and 2018 USACO finalist.'
 type: 'Speaker Event'
-open: True
+open: False
 ---
 
 <img src="/images/events/yibo.png" height="150" style="margin-right: 10px; border-radius: 50%;">
