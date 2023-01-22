@@ -71,7 +71,7 @@
                 <div class="text-h5 font-weight-bold">
                   {{ item.title }}
                 </div>
-                <div class="font-weight-regular mt-1">
+                <div class="text-body-2 mt-1">
                   {{ item.description }}
                 </div>
               </div>
@@ -79,6 +79,33 @@
           </v-card>
         </div>
       </div>
+    </v-container>
+
+    <v-container class="py-4 py-lg-8">
+      <h3 class="text-md-h3 text-h4 text-center">
+        Feedback from our students
+      </h3>
+
+      <v-row class="mt-6">
+        <v-col
+          v-for="(item, i) in testimonials"
+          :key="i"
+          cols="12"
+          md="4"
+        >
+          <v-card class="pa-3 d-flex">
+            <div class="text-h1 mr-2">
+              “
+            </div>
+            <div class="text-body-2">
+              {{ item.testimonial }}
+            </div>
+          </v-card>
+          <div class="text-h7 mt-2 ml-1">
+            {{ item.name }}
+          </div>
+        </v-col>
+      </v-row>
     </v-container>
   </div>
 </template>
@@ -113,6 +140,16 @@ export default {
         icon: 'mdi-file-tree',
         title: 'Structured Curriculum and Homework',
         description: 'This fall, our courses consist of eight classes, and the curriculum spanning these classes have been carefully cultivated by our instructors to maximize the usefulness and quality of knowledge that students will gain. Homework will also be assigned after each class. '
+      }],
+      testimonials: [{
+        name: 'AMC 8 Student',
+        testimonial: 'Alex was very knowledgeable and nice to speak with. He is a better teacher than many teachers that I have had in school, as he has personal experience with what he teaches.'
+      }, {
+        name: 'AMC 10 to AIME Student',
+        testimonial: 'This course is really good! I learned quite a lot about AMC 10 concepts (specifically geometry and combinatorics). Austin and Neil are wonderful teachers who made the concepts very clear and gave motivated solutions to the problems.'
+      }, {
+        name: 'Biology and USABO Student',
+        testimonial: 'Arjun was a very good instructor. He explained the concepts in an easy to understand way and clearly had lots of knowledge on the subject.'
       }]
     }
   },
