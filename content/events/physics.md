@@ -1,5 +1,5 @@
 ---
-title: 'Physics/F=ma'
+title: 'Physics/F=ma (Winter 2022)'
 location: Zoom
 time: '10 AM-11 AM PT'
 dateStart: '2022-10-01'
@@ -8,7 +8,7 @@ instructor: Aniketh Tummala (USAPHO, USACO Platinum)
 description: 'This course is for students looking for a basic understanding of physics concepts and are preparing for AP Physics 1 or F=ma.'
 registration: 'https://docs.google.com/forms/d/e/1FAIpQLSdqh-HGUiAypr3O_49zfk_lYyTVTh3Ak1rvePVMRh_Ng8jjug/viewform'
 type: 'Online Class'
-open: True
+open: False
 zoom: 'https://us06web.zoom.us/j/5717486425?pwd=bGw0MEJCellLR2lhQldTS3FPYjFtQT09'
 ---
 

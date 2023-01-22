@@ -1,5 +1,5 @@
 ---
-title: 'USACO Bronze'
+title: 'USACO Bronze (Winter 2022)'
 location: Zoom
 time: '10 AM-11 AM PT'
 dateStart: '2022-10-02'
@@ -8,7 +8,7 @@ instructor: Thomas Liu (USACO Platinum)
 description: 'This course is for students who have a basic understanding of C++, Java, or Python and are aiming to pass USACO Bronze.'
 registration: 'https://docs.google.com/forms/d/e/1FAIpQLScXiPexFEZYPuBjl0YQ_3mA1yWBNNBOw0JGZNlpX_PtWvGEbw/viewform'
 type: 'Online Class'
-open: True
+open: False
 zoom: 'https://us06web.zoom.us/j/5717486425?pwd=bGw0MEJCellLR2lhQldTS3FPYjFtQT09'
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: 'AMC 10/12 to AIME'
+title: 'AMC 10/12 to AIME (Winter 2022)'
 location: Zoom
 time: '1 PM-2 PM PT'
 dateStart: '2022-10-01'
@@ -8,7 +8,7 @@ instructor: Austin Geng (MOP, USACO Finalist)
 description: 'This course is for students with experience in the AMCs that are aiming to qualify for and score some points on the AIME.'
 registration: 'https://docs.google.com/forms/d/e/1FAIpQLSfmTC_5BycNk71s4ymWSOrAHd2MBPDGk6H19MnwOq81Ma4gpw/viewform'
 type: 'Online Class'
-open: True
+open: False
 zoom: 'https://us06web.zoom.us/j/5717486425?pwd=bGw0MEJCellLR2lhQldTS3FPYjFtQT09'
 ---
 

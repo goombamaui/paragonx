@@ -1,5 +1,5 @@
 ---
-title: 'Chemistry/USNCO'
+title: 'Chemistry/USNCO (Winter 2022)'
 location: Zoom
 time: '4 PM-5 PM PT'
 dateStart: '2022-10-02'
@@ -8,7 +8,7 @@ instructor: Gautam Bhooma (Science Bowl National Championships)
 description: 'This course aims to teach students introductory chemistry and create a base on which students can prepare for chemistry contests like USNCO.'
 registration: 'https://docs.google.com/forms/d/e/1FAIpQLSe1a4ulp7FkhqW0yRzuj53JzrzKwUL-l685Ntx0P90c4AkbHg/viewform'
 type: 'Online Class'
-open: True
+open: False
 zoom: 'https://us06web.zoom.us/j/5717486425?pwd=bGw0MEJCellLR2lhQldTS3FPYjFtQT09'
 ---
 
