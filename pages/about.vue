@@ -86,6 +86,12 @@ export default {
           bio: 'Arjun Gurjar is a junior at The Harker School. In addition to being a nationalist in the North South Science Bee, he is passionate about biology and has many years of experience in teaching students as well as conducting wet lab research. When he isn’t studying for USABO, Arjun likes editing videos, going on walks, and listening to music.'
         },
         {
+          name: 'Kevin Zhang',
+          title: 'Vice President of Outreach',
+          image: '/images/bio/kevin.png',
+          bio: 'Kevin is a junior at the Harker School. Besides studying computer science and physical sciences, he is also interested in arts and design with experience in digital mediums such as Photoshop and Canva. He is also a graphic designer for the Harker Programming Club and produces media for his school’s journalism program too. In his free time, he enjoys photo and video editing, as well as playing and watching basketball.'
+        },
+        {
           name: 'Dustin Miao',
           image: '/images/bio/dustin.jpg',
           bio: 'Dustin is a junior at the Harker School who is passionate about computer science. He is in USACO\'s platinum division and a master on Codeforces, and is also interested in web development and artificial intelligence. In is spare time, he enjoys playing cello.'
@@ -99,6 +105,11 @@ export default {
           name: 'Neil Krishnan',
           image: '/images/bio/neil.jpg',
           bio: 'Neil Krishnan is a sophmore at The Harker School. In addition to getting 1st award in Synopsys Physical Sciences & Engineering and qualifying for CSEF and Broadcom Masters, he has had large success in math competitions, especially Berkeley Math Tournament, AMC 10, and AIME. In his free time, he enjoys playing piano and bicycling.'
+        },
+        {
+          name: 'Arnav Swaroop',
+          image: '/images/bio/arnav.png',
+          bio: 'Arnav Swaroop is a Junior at the Harker School who enjoys Physics, Earth+Space Science, and biology. He is a USESO finalist,  a USABO semifinalist, and has other STEM accolades in the above fields. He won the Regional Science Bowl in 2020, and is now part of Harker\'s High School Science Bowl A Team and a senior Middle School Science Bowl coach. When not studying science, he works on his diverse array of research projects ranging from astrophysics to biochemistry.'
         }
       ]
     }
