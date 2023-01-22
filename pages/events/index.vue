@@ -45,7 +45,7 @@
         <v-expansion-panels class="mt-4">
           <v-expansion-panel>
             <v-expansion-panel-header>
-              Past/Closed Classes <v-spacer />
+              <b>Past/Closed Online Classes</b> <v-spacer />
               Click to Expand
             </v-expansion-panel-header>
             <v-expansion-panel-content>
