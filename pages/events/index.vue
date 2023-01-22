@@ -13,19 +13,59 @@
       <h4 class="text-h4 text-left">
         Online Classes
       </h4>
-      <v-row class="mt-2">
-        <v-col
-          v-for="(event,index) in onlineClasses"
-          :key="index"
-          cols="12"
-          md="6"
-        >
-          <event-card
-            :event="
-              event"
-          />
-        </v-col>
-      </v-row>
+      <div v-if="openOnlineClasses.length==0">
+        <v-row class="mt-2">
+          <v-col
+            v-for="(event,index) in closedOnlineClasses"
+            :key="index"
+            cols="12"
+            md="6"
+          >
+            <event-card
+              :event="
+                event"
+            />
+          </v-col>
+        </v-row>
+      </div>
+      <div v-else>
+        <v-row class="mt-2">
+          <v-col
+            v-for="(event,index) in openOnlineClasses"
+            :key="index"
+            cols="12"
+            md="6"
+          >
+            <event-card
+              :event="
+                event"
+            />
+          </v-col>
+        </v-row>
+        <v-expansion-panels class="mt-4">
+          <v-expansion-panel>
+            <v-expansion-panel-header>
+              Past/Closed Classes <v-spacer />
+              Click to Expand
+            </v-expansion-panel-header>
+            <v-expansion-panel-content>
+              <v-row class="mt-2">
+                <v-col
+                  v-for="(event,index) in closedOnlineClasses"
+                  :key="index"
+                  cols="12"
+                  md="6"
+                >
+                  <event-card
+                    :event="
+                      event"
+                  />
+                </v-col>
+              </v-row>
+            </v-expansion-panel-content>
+          </v-expansion-panel>
+        </v-expansion-panels>
+      </div>
     </v-container>
     <v-container class="mt-2">
       <h4 class="text-h4 text-left">
@@ -86,8 +126,11 @@ export default {
     }
   },
   computed: {
-    onlineClasses () {
-      return this.events.filter(event => event.type === 'Online Class' && event.open).concat(this.events.filter(event => event.type === 'Online Class' && !event.open))
+    openOnlineClasses () {
+      return this.events.filter(event => event.type === 'Online Class' && event.open)
+    },
+    closedOnlineClasses () {
+      return this.events.filter(event => event.type === 'Online Class' && !event.open)
     },
     inPersonClasses () {
       return this.events.filter(event => event.type === 'In-Person Class' && event.open).concat(this.events.filter(event => event.type === 'In-Person Class' && !event.open))
