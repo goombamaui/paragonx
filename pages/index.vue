@@ -204,19 +204,19 @@ export default {
       slides: [
         {
           image: '/images/carousel/1.png',
-          caption: 'Arjun Gurjar, Biology and USABO, Fall 2021'
+          caption: 'Arjun Gurjar, Biology and USABO, Fall 2022'
         },
         {
           image: '/images/carousel/2.png',
-          caption: 'Alex Huang, AMC 8, Fall 2021'
+          caption: 'Alex Huang, AMC 8, Fall 2022'
         },
         {
           image: '/images/carousel/3.png',
-          caption: 'Austin Geng and Neil Krishnan, AMC 10/12 to AIME, Fall 2021'
+          caption: 'Austin Geng and Neil Krishnan, AMC 10/12 to AIME, Fall 2022'
         },
         {
           image: '/images/carousel/4.png',
-          caption: 'Arjun Gurjar, Biology and USABO, Fall 2021'
+          caption: 'Thomas Liu, USACO Bronze, Fall 2022'
         }
       ],
       stats: [{
