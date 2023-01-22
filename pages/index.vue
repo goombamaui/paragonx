@@ -81,7 +81,28 @@
       </div>
     </v-container>
 
-    <v-container class="py-4 py-lg-8">
+    <v-container class="mt-4">
+      <v-carousel
+        cycle
+        height="550"
+        show-arrows-on-hover
+      >
+        <v-carousel-item
+          v-for="(slide, i) in slides"
+          :key="i"
+        >
+          <v-img :src="slide.image">
+            <v-sheet>
+              <div class="pa-1 text-body-1">
+                {{ slide.caption }}
+              </div>
+            </v-sheet>
+          </v-img>
+        </v-carousel-item>
+      </v-carousel>
+    </v-container>
+
+    <v-container class="mt-4">
       <h3 class="text-md-h3 text-h4 text-center">
         Feedback from our students
       </h3>
@@ -150,7 +171,32 @@ export default {
       }, {
         name: 'Biology and USABO Student',
         testimonial: 'Arjun was a very good instructor. He explained the concepts in an easy to understand way and clearly had lots of knowledge on the subject.'
-      }]
+      }],
+      colors: [
+        'indigo',
+        'warning',
+        'pink darken-2',
+        'red lighten-1',
+        'deep-purple accent-4'
+      ],
+      slides: [
+        {
+          image: '/images/carousel/1.png',
+          caption: 'Arjun Gurjar, Biology and USABO, Fall 2021'
+        },
+        {
+          image: '/images/carousel/2.png',
+          caption: 'Alex Huang, AMC 8, Fall 2021'
+        },
+        {
+          image: '/images/carousel/3.png',
+          caption: 'Austin Geng and Neil Krishnan, AMC 10/12 to AIME, Fall 2021'
+        },
+        {
+          image: '/images/carousel/4.png',
+          caption: 'Arjun Gurjar, Biology and USABO, Fall 2021'
+        }
+      ]
     }
   },
   head () {
