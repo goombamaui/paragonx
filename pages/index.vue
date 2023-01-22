@@ -82,7 +82,12 @@
     </v-container>
 
     <v-container class="mt-4">
+      <h3 class="text-md-h3 text-h4 text-center">
+        Impact and statistics
+      </h3>
+
       <v-carousel
+        class="mt-4"
         cycle
         height="550"
         show-arrows-on-hover
@@ -100,6 +105,23 @@
           </v-img>
         </v-carousel-item>
       </v-carousel>
+      <v-row class="mt-2">
+        <v-col
+          v-for="(item, i) in stats"
+          :key="i"
+          cols="12"
+          md="4"
+        >
+          <v-card class="pa-4">
+            <div class="text-h2 text-lg-h1">
+              {{ item.value }}
+            </div>
+            <div class="text-h6 text-lg-h5">
+              {{ item.title }}
+            </div>
+          </v-card>
+        </v-col>
+      </v-row>
     </v-container>
 
     <v-container class="mt-4">
@@ -196,7 +218,17 @@ export default {
           image: '/images/carousel/4.png',
           caption: 'Arjun Gurjar, Biology and USABO, Fall 2021'
         }
-      ]
+      ],
+      stats: [{
+        title: 'Students Impacted',
+        value: '750'
+      }, {
+        title: 'Classes and Events',
+        value: '12'
+      }, {
+        title: 'Total Event Hours',
+        value: '70'
+      }]
     }
   },
   head () {
