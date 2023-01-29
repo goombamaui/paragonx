@@ -1,7 +1,7 @@
 ---
 title: 'AMC 10/12 to AIME'
 location: Zoom
-time: 'Saturday 9:30 AM-10:30 AM PT'
+time: 'Saturday 1:00 PM-2:00 PM PT'
 dateStart: '2023-02-11'
 dateEnd: '2023-04-01'
 instructor: Alex Huang
