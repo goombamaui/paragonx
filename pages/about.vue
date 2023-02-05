@@ -110,6 +110,11 @@ export default {
           name: 'Arnav Swaroop',
           image: '/images/bio/arnav.png',
           bio: 'Arnav Swaroop is a Junior at the Harker School who enjoys Physics, Earth+Space Science, and biology. He is a USESO finalist,  a USABO semifinalist, and has other STEM accolades in the above fields. He won the Regional Science Bowl in 2020, and is now part of Harker\'s High School Science Bowl A Team and a senior Middle School Science Bowl coach. When not studying science, he works on his diverse array of research projects ranging from astrophysics to biochemistry.'
+        },
+        {
+          name: 'Juliana Li',
+          image: '/images/bio/juliana.png',
+          bio: 'Juliana Li is a sophomore at the Harker School. She is a 3x AIME qualifier, was invited to MathCounts Nationals, is passionate about USACO, and has coded in many languages, including C++, Python, Java, LISP, and HTML & CSS. In her free time, she enjoys dancing, as she has won many awards in dance, especially ballet.'
         }
       ]
     }
