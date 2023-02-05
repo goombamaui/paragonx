@@ -59,7 +59,7 @@ export default {
           name: 'Harry Chen',
           title: 'Vice President of Tech',
           image: '/images/bio/harry.jpg',
-          bio: 'Harry is a junior at Northwood High School in Southern California. First exposed to programming in 6th grade, Harry enjoys designing complex systems and creating solutions to challenging problems. Besides being an active competitive programmer for three years, Harry has experience in full-stack web development and coding enterprise applications.'
+          bio: 'Harry is a junior at Northwood High School in Irvine. He currently competes in USACO Platinum and has experience in full-stack web development. Harry is also involved with NLP research. In his free time Harry likes to play tennis.'
         },
         {
           name: 'Thomas Liu',
