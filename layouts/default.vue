@@ -21,7 +21,7 @@
         <nuxt-link to="/" class="d-flex align-center text-decoration-none mr-2">
           <img src="/images/logo.png" alt="" height="40" class="mr-1">
           <span class="font-weight-black text-uppercase text-sm-h5 text-h6 ml-1">
-            ParagonX <span class="white--text">Academy</span>
+            ParagonX <span class="black--text">Academy</span>
           </span>
         </nuxt-link>
 
