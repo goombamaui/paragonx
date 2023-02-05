@@ -2,14 +2,14 @@
   <div>
     <v-container class="text-center">
       <h1 class="text-md-h1 text-h3  mt-md-6">
-        Quality <span class="primary--text">STEM education</span> for our <span class="primary--text">community</span>
+        Bringing <span class="primary--text">STEM Education</span> to Our Community
       </h1>
       <div class="grey--text text--lighten-2 mt-4 text-body-1">
-        ParagonX Academy is a 501(c)(3) student-led non-profit organization that strives to provide high-quality, readily available STEM education to everyone in need through free curricula.
+        With nationally acclaimed instructors including USACO Finalists, MOP invitees, and Science Bowl winners, ParagonX Academy is a 501(c)(3) student-led non-profit organization that strives to provide readily available STEM education through free curricula.
       </div>
       <div class="mt-6">
         <v-btn x-large depressed to="/events" color="primary" class="my-1 mr-sm-1 w-full w-sm-auto">
-          Events and Courses
+          Spring 2023 Courses
         </v-btn>
         <v-btn x-large outlined href="https://discord.com/invite/kSXnnMm244" target="_blank" class="my-1 ml-sm-1 w-full w-sm-auto">
           Join Discord
@@ -223,11 +223,11 @@ export default {
         title: 'Students Impacted',
         value: '750'
       }, {
-        title: 'Classes and Events',
+        title: 'Courses and Events',
         value: '12'
       }, {
-        title: 'Total Event Hours',
-        value: '70'
+        title: 'Classes Taught',
+        value: '70+'
       }]
     }
   },
