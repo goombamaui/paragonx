@@ -4,7 +4,7 @@
       <h1 class="text-md-h1 text-h3  mt-md-6">
         Bringing <span class="primary--text">STEM Education</span> to Our Community
       </h1>
-      <div class="grey--text text--lighten-2 mt-4 text-body-1">
+      <div class="text--lighten-2 mt-4 text-body-1">
         With nationally acclaimed instructors including USACO Finalists, MOP invitees, and Science Bowl winners, ParagonX Academy is a 501(c)(3) student-led non-profit organization that strives to provide readily available STEM education through free curricula.
       </div>
       <div class="mt-6">

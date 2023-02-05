@@ -62,7 +62,7 @@ export default {
   vuetify: {
     customVariables: ['assets/scss/vuetify.scss'],
     theme: {
-      dark: true,
+      dark: false,
       themes: {
         dark: {
           primary: colors.blue.darken3,

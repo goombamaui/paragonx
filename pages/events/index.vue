@@ -5,7 +5,7 @@
         ParagonX Academy events and courses
       </h2>
       <div style="width: 80px; height: 4px" class="my-4 secondary mx-auto" />
-      <div class="grey--text text--lighten-2 mt-4 text-body-1 text-center">
+      <div class="text--lighten-2 mt-4 text-body-1 text-center">
         Click on cards to see details and registration information.
       </div>
     </v-container>
