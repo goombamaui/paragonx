@@ -4,7 +4,7 @@ location: Zoom
 time: 'Saturday 1:00 PM-2:00 PM PT'
 dateStart: '2023-02-11'
 dateEnd: '2023-04-01'
-instructor: Alex Huang
+instructor: Alex Huang, Juliana Li
 description: 'This eight-week course is for students with experience in middle school math competitions such as AMC 8 and MathCounts who are aiming to qualify for and earn at least five points on the AIME.'
 registration: 'https://docs.google.com/forms/d/e/1FAIpQLSenMjX7AWhqjVF-LLkikCtgc5jAoGl-V8HzGDkXeGIjURdNcA/viewform'
 type: 'Online Class'
