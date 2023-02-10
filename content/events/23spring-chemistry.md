@@ -2,8 +2,8 @@
 title: 'Chemistry and USNCO'
 location: Zoom
 time: 'Saturday 5:30 PM-6:30 PM PT'
-dateStart: '2023-02-11'
-dateEnd: '2023-04-01'
+dateStart: '2023-02-25'
+dateEnd: '2023-04-15'
 instructor: Gautam Bhooma
 description: 'This course aims to teach students introductory chemistry and create a base on which students can prepare for chemistry contests like USNCO and grow a passion for the (explosive) subject.'
 registration: 'https://docs.google.com/forms/d/e/1FAIpQLSf1SFJ98W-opoAxHrIncMVQDgyhUKNb8eWKoFey5zvE-hFvzQ/viewform'
