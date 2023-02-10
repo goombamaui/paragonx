@@ -1,7 +1,7 @@
 ---
 title: 'Physics and Astronomy'
 location: Zoom
-time: 'Saturday 11 PM-12 PM PT'
+time: 'Sunday 11 AM-12 PM PT'
 dateStart: '2023-02-19'
 dateEnd: '2023-04-09'
 instructor: Arnav Swaroop
