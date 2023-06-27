@@ -221,13 +221,13 @@ export default {
       ],
       stats: [{
         title: 'Students Impacted',
-        value: '750'
+        value: '1000'
       }, {
         title: 'Courses and Events',
-        value: '12'
+        value: '17'
       }, {
         title: 'Classes Taught',
-        value: '70+'
+        value: '110+'
       }]
     }
   },
