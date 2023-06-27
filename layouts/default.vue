@@ -71,7 +71,11 @@ export default {
         },
         {
           link: '/events',
-          title: 'Events'
+          title: 'Courses'
+        },
+        {
+          link: '/speakers',
+          title: 'Speakers'
         },
         {
           link: '/about',

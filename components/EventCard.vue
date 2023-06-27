@@ -52,7 +52,11 @@ export default {
   },
   computed: {
     link () {
-      return `/events/${this.event.slug}`
+      if (this.event.type === 'Speaker Event') {
+        return `/speakers/${this.event.slug}`
+      } else {
+        return `/events/${this.event.slug}`
+      }
     }
   }
 }
