@@ -8,7 +8,7 @@ instructor: Gautam Bhooma
 description: 'This course aims to teach students introductory chemistry and create a base on which students can prepare for chemistry contests like USNCO and grow a passion for the (explosive) subject.'
 registration: 'https://docs.google.com/forms/d/e/1FAIpQLSf1SFJ98W-opoAxHrIncMVQDgyhUKNb8eWKoFey5zvE-hFvzQ/viewform'
 type: 'Online Class'
-open: True
+open: False
 ---
 
 ## Description

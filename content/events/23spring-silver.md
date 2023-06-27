@@ -8,7 +8,7 @@ instructor: Thomas Liu, Dustin Miao
 description: 'A 7-week course teaching all the necessary data structure and algorithmic knowledge for passing silver.'
 registration: 'https://docs.google.com/forms/d/13utPXbTATTW7PwF9bJT3VOiWiYvRz03TGYFDS-sh3eU/viewform'
 type: 'Online Class'
-open: True
+open: False
 ---
 
 ## Description

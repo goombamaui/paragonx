@@ -8,7 +8,7 @@ instructor: Arjun Gurjar
 description: 'This course is intended for students who are interested in biology and want to participate in the USABO.'
 registration: 'https://docs.google.com/forms/d/e/1FAIpQLSeiiBuEFdj6YCrU279uLYzta6XZU6s31LbPg__Gxsm5jCYF9A/viewform'
 type: 'Online Class'
-open: True
+open: False
 ---
 
 ## Description
