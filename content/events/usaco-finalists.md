@@ -11,7 +11,7 @@ zoom: 'https://us06web.zoom.us/j/5717486425?pwd=bGw0MEJCellLR2lhQldTS3FPYjFtQT09
 attendees: '210 attendees'
 ---
 
-<img src="/images/bio/joe.jpg" height="150" style="margin-right: 10px; border-radius: 50%;">
+<img src="/images/bio/joe.png" height="150" style="margin-right: 10px; border-radius: 50%;">
 
 <img src="/images/events/bobby.jpg" height="150" style="margin-right: 10px; border-radius: 50%;">
 

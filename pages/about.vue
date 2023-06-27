@@ -40,8 +40,8 @@ export default {
         {
           name: 'Joe Li',
           title: 'President',
-          image: '/images/bio/joe.jpg',
-          bio: 'Joe is a junior at the Harker School. He is a USACO Finalist, USAPHO Bronze Medalist, and 3x AIME qualifier. His CS journey began in the fall of 2017, when he first started learning C++ with X-Camp. In his free time, he plays violin and does karate.'
+          image: '/images/bio/joe.png',
+          bio: 'Joe is a rising senior at the Harker School. He is a USACO Finalist, USAPhO Gold Medalist, and 4x AIME qualifier. His CS journey began in the fall of 2017, when he first started learning C++ with X-Camp. In his free time, he plays violin and does karate.'
         },
         {
           name: 'Austin Geng',
