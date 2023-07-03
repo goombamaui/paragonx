@@ -115,6 +115,11 @@ export default {
           name: 'Juliana Li',
           image: '/images/bio/juliana.png',
           bio: 'Juliana Li is a sophomore at the Harker School. She is a 3x AIME qualifier, was invited to MathCounts Nationals, is passionate about USACO, and has coded in many languages, including C++, Python, Java, LISP, and HTML & CSS. In her free time, she enjoys dancing, as she has won many awards in dance, especially ballet.'
+        },
+        {
+          name: 'Jacqueline Huang',
+          image: '/images/bio/Jacqueline.png',
+          bio: 'Jacqueline is a rising junior at the Harker School. She is a USAPhO semifinalist and 3x AIME qualifier and is interested in applied physics. She has several years of experience in teaching math and science, and she enjoys hiking and reading in her free time.'
         }
       ]
     }
