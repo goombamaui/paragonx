@@ -9,65 +9,30 @@
         Click on cards to see details and registration information.
       </div>
     </v-container>
-    <v-container class="mt-2">
-      <h4 class="text-h4 text-left">
-        Online Classes
-      </h4>
-      <div v-if="openOnlineClasses.length==0">
-        <v-row class="mt-2">
-          <v-col
-            v-for="(event,index) in closedOnlineClasses"
-            :key="index"
-            cols="12"
-            md="6"
-          >
-            <event-card
-              :event="
-                event"
-            />
-          </v-col>
-        </v-row>
-      </div>
-      <div v-else>
-        <v-row class="mt-2">
-          <v-col
-            v-for="(event,index) in openOnlineClasses"
-            :key="index"
-            cols="12"
-            md="6"
-          >
-            <event-card
-              :event="
-                event"
-            />
-          </v-col>
-        </v-row>
-        <v-expansion-panels class="mt-4">
-          <v-expansion-panel>
-            <v-expansion-panel-header>
-              <b>Past/Closed Online Classes</b> <v-spacer />
-              Click to Expand
-            </v-expansion-panel-header>
-            <v-expansion-panel-content>
-              <v-row class="mt-2">
-                <v-col
-                  v-for="(event,index) in closedOnlineClasses"
-                  :key="index"
-                  cols="12"
-                  md="6"
-                >
-                  <event-card
-                    :event="
-                      event"
-                  />
-                </v-col>
-              </v-row>
-            </v-expansion-panel-content>
-          </v-expansion-panel>
-        </v-expansion-panels>
-      </div>
+    <v-container v-if="onlineClasses.length>0" class="mt-2">
+      <v-row class="mb-n8">
+        <v-col cols="9">
+          <h4 class="text-h4 text-left">
+            Online Classes
+          </h4>
+        </v-col>
+        <v-col><v-select v-model="currentSeason" class="mt-n1" outlined :items="seasons" /></v-col>
+      </v-row>
+      <v-row>
+        <v-col
+          v-for="(event,index) in onlineClasses"
+          :key="index"
+          cols="12"
+          md="6"
+        >
+          <event-card
+            :event="
+              event"
+          />
+        </v-col>
+      </v-row>
     </v-container>
-    <v-container class="mt-2">
+    <v-container v-if="inPersonClasses.length>0" class="mt-2">
       <h4 class="text-h4 text-left">
         In-Person Classes
       </h4>
@@ -95,6 +60,12 @@ export default {
     const events = await $content('events').sortBy('dateStart', 'asc').fetch()
     return { events }
   },
+  data () {
+    return {
+      seasons: ['Spring 2023', 'Fall 2022', 'Fall 2021'],
+      currentSeason: 'Spring 2023'
+    }
+  },
   head () {
     return {
       title: 'Courses',
@@ -108,14 +79,11 @@ export default {
     }
   },
   computed: {
-    openOnlineClasses () {
-      return this.events.filter(event => event.type === 'Online Class' && event.open)
-    },
-    closedOnlineClasses () {
-      return this.events.filter(event => event.type === 'Online Class' && !event.open)
+    onlineClasses () {
+      return this.events.filter(event => event.type === 'Online Class' && event.open && event.season === this.currentSeason).concat(this.events.filter(event => event.type === 'Online Class' && !event.open && event.season === this.currentSeason))
     },
     inPersonClasses () {
-      return this.events.filter(event => event.type === 'In-Person Class' && event.open).concat(this.events.filter(event => event.type === 'In-Person Class' && !event.open))
+      return this.events.filter(event => event.type === 'In-Person Class' && event.open && event.season === this.currentSeason).concat(this.events.filter(event => event.type === 'In-Person Class' && !event.open && event.season === this.currentSeason))
     }
   }
 }

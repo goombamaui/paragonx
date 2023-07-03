@@ -1,5 +1,5 @@
 ---
-title: 'USACO Bronze (Winter 2022)'
+title: 'USACO Bronze'
 location: Zoom
 time: '10 AM-11 AM PT'
 dateStart: '2022-10-02'
@@ -10,6 +10,7 @@ registration: 'https://docs.google.com/forms/d/e/1FAIpQLScXiPexFEZYPuBjl0YQ_3mA1
 type: 'Online Class'
 open: False
 zoom: 'https://us06web.zoom.us/j/5717486425?pwd=bGw0MEJCellLR2lhQldTS3FPYjFtQT09'
+season: 'Fall 2022'
 ---
 
 ## Description

@@ -9,6 +9,7 @@ description: 'A 7-week course teaching all the necessary data structure and algo
 registration: 'https://docs.google.com/forms/d/13utPXbTATTW7PwF9bJT3VOiWiYvRz03TGYFDS-sh3eU/viewform'
 type: 'Online Class'
 open: False
+season: 'Spring 2023'
 ---
 
 ## Description

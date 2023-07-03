@@ -9,6 +9,7 @@ description: 'This course aims to teach students introductory chemistry and crea
 registration: 'https://docs.google.com/forms/d/e/1FAIpQLSf1SFJ98W-opoAxHrIncMVQDgyhUKNb8eWKoFey5zvE-hFvzQ/viewform'
 type: 'Online Class'
 open: False
+season: 'Spring 2023'
 ---
 
 ## Description

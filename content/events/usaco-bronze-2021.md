@@ -1,5 +1,5 @@
 ---
-title: 'USACO Bronze (2021)'
+title: 'USACO Bronze'
 location: Online
 time: '5 PM-6:30 PM PT'
 dateStart: '2021-08-08'
@@ -8,7 +8,7 @@ instructor: Thomas Liu
 description: 'This course will teach useful USACO Bronze concepts to students who are planning to take the USACO Bronze contest in December.'
 type: 'Online Class'
 open: False
-
+season: 'Fall 2021'
 ---
 
 ## Description

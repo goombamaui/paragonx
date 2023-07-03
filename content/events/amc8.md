@@ -1,5 +1,5 @@
 ---
-title: 'Int-Adv AMC 8 (Winter 2022)'
+title: 'Int-Adv AMC 8'
 location: Cupertino Library
 time: '11 AM-12 PM PT'
 dateStart: '2022-10-09'
@@ -9,6 +9,7 @@ description: 'This course is for students who have a solid understanding of Alge
 registration: 'https://docs.google.com/forms/d/e/1FAIpQLSd6NVf4xtSojYC6_1-zr_FqvPd1qg8BKdc1OEyl9tS34SoDqA/viewform'
 type: 'In-Person Class'
 open: False
+season: 'Fall 2022'
 ---
 
 ## Description

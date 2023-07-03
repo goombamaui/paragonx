@@ -9,6 +9,7 @@ description: 'This eight-week course is for students with experience in middle s
 registration: 'https://docs.google.com/forms/d/e/1FAIpQLSenMjX7AWhqjVF-LLkikCtgc5jAoGl-V8HzGDkXeGIjURdNcA/viewform'
 type: 'Online Class'
 open: False
+season: 'Spring 2023'
 ---
 
 ## Description

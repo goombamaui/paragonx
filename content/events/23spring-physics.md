@@ -9,6 +9,7 @@ description: 'This course will teach students how to apply physics to space and 
 registration: 'https://docs.google.com/forms/d/e/1FAIpQLSdXAcaK1jn8JO1f0JhqSde6QgrNvS2XcP2NDSyfXs9A7OaA0Q/viewform'
 type: 'Online Class'
 open: False
+season: 'Spring 2023'
 ---
 
 ## Description

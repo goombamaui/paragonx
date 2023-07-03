@@ -1,5 +1,5 @@
 ---
-title: 'Chemistry/USNCO (Winter 2022)'
+title: 'Chemistry/USNCO'
 location: Zoom
 time: '4 PM-5 PM PT'
 dateStart: '2022-10-02'
@@ -10,6 +10,7 @@ registration: 'https://docs.google.com/forms/d/e/1FAIpQLSe1a4ulp7FkhqW0yRzuj53Jz
 type: 'Online Class'
 open: False
 zoom: 'https://us06web.zoom.us/j/5717486425?pwd=bGw0MEJCellLR2lhQldTS3FPYjFtQT09'
+season: 'Fall 2022'
 ---
 
 ## Description

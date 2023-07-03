@@ -9,6 +9,7 @@ description: 'This course is intended for students who are interested in biology
 registration: 'https://docs.google.com/forms/d/e/1FAIpQLSeiiBuEFdj6YCrU279uLYzta6XZU6s31LbPg__Gxsm5jCYF9A/viewform'
 type: 'Online Class'
 open: False
+season: 'Spring 2023'
 ---
 
 ## Description

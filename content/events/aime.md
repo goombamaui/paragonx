@@ -1,5 +1,5 @@
 ---
-title: 'AMC 10/12 to AIME (Winter 2022)'
+title: 'AMC 10/12 to AIME'
 location: Zoom
 time: '1 PM-2 PM PT'
 dateStart: '2022-10-01'
@@ -10,6 +10,7 @@ registration: 'https://docs.google.com/forms/d/e/1FAIpQLSfmTC_5BycNk71s4ymWSOrAH
 type: 'Online Class'
 open: False
 zoom: 'https://us06web.zoom.us/j/5717486425?pwd=bGw0MEJCellLR2lhQldTS3FPYjFtQT09'
+season: 'Fall 2022'
 ---
 
 ## Description

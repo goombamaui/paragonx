@@ -1,5 +1,5 @@
 ---
-title: 'Biology/USABO (Winter 2022)'
+title: 'Biology/USABO'
 location: Zoom
 time: '3 PM-4 PM PT'
 dateStart: '2022-10-15'
@@ -10,6 +10,7 @@ registration: 'https://docs.google.com/forms/d/e/1FAIpQLSdjBIIDGpFhPAcGgVUkGNpwl
 type: 'Online Class'
 open: False
 zoom: 'https://us06web.zoom.us/j/5717486425?pwd=bGw0MEJCellLR2lhQldTS3FPYjFtQT09'
+season: 'Fall 2022'
 ---
 
 ## Description
