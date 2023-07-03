@@ -1,15 +1,15 @@
 ---
 title: 'AMC 10/12 to AIME'
 location: Zoom
-time: 'Sunday 7:00 PM-8:00 PM PT'
+time: 'Sunday 7 PM-8 PM PT'
 dateStart: '2023-07-23'
 dateEnd: '2023-08-13'
-instructor: Alex Huang, Aarush Vailaya
+instructor: Alex Huang and Aarush Vailaya
 description: 'This four-week course is for students with experience in middle school math competitions such as AMC 8 and MathCounts who are aiming to qualify for and earn at least five points on the AIME.'
 registration: 'https://docs.google.com/forms/d/e/1FAIpQLScGfg8aC0_Psa6AE4ysXlmxg6hKZsw76WZGxaHve5gM8PFHRA/viewform'
 type: 'Online Class'
 open: True
-season: 'Fall 2023'
+season: 'Summer 2023'
 ---
 
 ## Description

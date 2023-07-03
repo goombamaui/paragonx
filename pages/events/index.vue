@@ -62,8 +62,8 @@ export default {
   },
   data () {
     return {
-      seasons: ['Spring 2023', 'Fall 2022', 'Fall 2021'],
-      currentSeason: 'Spring 2023'
+      seasons: ['Summer 2023', 'Spring 2023', 'Fall 2022', 'Fall 2021'],
+      currentSeason: 'Summer 2023'
     }
   },
   head () {
