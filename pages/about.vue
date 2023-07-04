@@ -118,7 +118,7 @@ export default {
         },
         {
           name: 'Jacqueline Huang',
-          image: '/images/bio/Jacqueline.png',
+          image: '/images/bio/jacqueline.png',
           bio: 'Jacqueline is a rising junior at the Harker School. She is a USAPhO semifinalist and 3x AIME qualifier and is interested in applied physics. She has several years of experience in teaching math and science, and she enjoys hiking and reading in her free time.'
         }
       ]
