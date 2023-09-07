@@ -8,7 +8,7 @@ instructor: Aniketh Tummala and Jacqueline Huang
 description: 'This course is for students looking for a basic understanding of physics concepts and are preparing for AP Physics 1 or F=ma.'
 registration: 'https://docs.google.com/forms/d/e/1FAIpQLSfxO7_il71VYDqmaeL-xPVzCljkDP8iyuCbqrLP0pH8OAaK0g/viewform'
 type: 'Online Class'
-open: True
+open: False
 season: 'Summer 2023'
 ---
 

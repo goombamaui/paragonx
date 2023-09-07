@@ -8,7 +8,7 @@ instructor: Alex Huang and Aarush Vailaya
 description: 'This four-week course is for students with experience in middle school math competitions such as AMC 8 and MathCounts who are aiming to qualify for and earn at least five points on the AIME.'
 registration: 'https://docs.google.com/forms/d/e/1FAIpQLScGfg8aC0_Psa6AE4ysXlmxg6hKZsw76WZGxaHve5gM8PFHRA/viewform'
 type: 'Online Class'
-open: True
+open: False
 season: 'Summer 2023'
 ---
 
