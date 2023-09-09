@@ -1,5 +1,5 @@
 ---
-title: 'AP Physics 1'
+title: ' F=ma / AP Physics 1'
 location: Zoom
 time: 'Sunday 5:00 PM-6:00 PM PT'
 dateStart: '2023-10-01'
