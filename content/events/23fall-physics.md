@@ -14,7 +14,7 @@ season: 'Fall 2023'
 
 ## Description
 
-This 8-week course is designed to teach students the fundamentals of classical physics and to prepare them for the F=ma competition and the AP Physics 1. It will cover the most critical concepts tested and will utilize a variety of past problems from the exams demonstrate concepts and test understanding. No prior knowledge of physics is necessary, but students are encouraged to know basic trigonometry.
+This 8-week course is designed to teach students the fundamentals of classical physics and to prepare them for the F=ma competition and the AP Physics 1. It will cover the most critical concepts tested and will utilize a variety of past problems from the exams demonstrate concepts and test understanding. No prior knowledge of physics is necessary, but students are encouraged to know basic trigonometry
 
 ## Syllabus
 
