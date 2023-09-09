@@ -124,7 +124,7 @@ export default {
         {
           name: 'Aarush Vailaya',
           image: '/images/bio/aarush.png',
-          bio: 'Aarush Vailaya is a junior at the Harker School. He is a 3 time qualifier of AIME, won 1st place in both the Synopsys Physical Sciences & Engineering as well as the Bay Area Math Olympiad, and competed in many math events, including the Berkeley Math Tournament, AMC 10, AIME, and USAMTS. While not doing math, he enjoys working on random coding projects and playing piano.'
+          bio: 'Aarush Vailaya is a junior at the Harker School. He is a 3 time qualifier of AIME, won 1st place in both the Synopsys Physical Sciences & Engineering as well as the Bay Area Math Olympiad, and competed in many math events, including the Stanford Math Tournament, AMC 10, AIME, and USAMTS. While not doing math, he enjoys working on random coding projects and playing piano.'
         },
         {
           name: 'Terry Xie',
