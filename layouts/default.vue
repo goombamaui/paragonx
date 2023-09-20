@@ -5,7 +5,7 @@
         <v-subheader class="text-uppercase font-weight-bold">
           Menu
         </v-subheader>
-        <v-list-item v-for="(item, index) in routes" :key="index" :to="item.link">
+        <v-list-item v-for="(item, index) in routes" :key="index" :to="item.link" :href="item.external_link">
           <v-list-item-content>
             <v-list-item-title>
               {{ item.title }}
@@ -14,7 +14,6 @@
         </v-list-item>
       </v-list>
     </v-navigation-drawer>
-
     <v-app-bar app>
       <v-app-bar-nav-icon class="d-md-none" @click="drawer = !drawer" />
       <v-container class="py-0 px-0 px-sm-2 fill-height">
@@ -32,6 +31,7 @@
             :key="index"
             text
             :to="item.link"
+            :href="item.external_link"
             class="mx-1"
           >
             {{ item.title }}
@@ -80,6 +80,10 @@ export default {
         {
           link: '/about',
           title: 'About'
+        },
+        {
+          external_link: 'https://forms.gle/1bef9xLmSrFmpcop9',
+          title: 'Join Us'
         }
       ],
       drawer: false
