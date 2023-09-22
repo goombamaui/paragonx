@@ -130,6 +130,11 @@ export default {
           name: 'Terry Xie',
           image: '/images/bio/terry.png',
           bio: 'Terry is a sophomore at The Harker School who is passionate about biology and math. He is a USABO Semifinalist, and has qualified for AIME twice. In his free time, Terry enjoys reading and playing water polo.'
+        },
+        {
+          name: 'Andrew Liang',
+          image: '/images/bio/andrew.png',
+          bio: 'Andrew Liang is a junior at the Harker School. He is a USACO Gold contestant and International Science and Engineering Fair (ISEF) Finalist. He enjoys teaching other students and helping them discover their own passions. In his spare time, he likes to play chess and listen to classical music.'
         }
       ]
     }
