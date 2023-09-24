@@ -4,7 +4,7 @@ location: Zoom
 time: 'Saturday 2 PM-3 PM PT'
 dateStart: '2023-09-30'
 dateEnd: '2023-11-18'
-instructor: Juliana Li
+instructor: Juliana Li and Andrew Liang
 description: 'This 8-class course is designed to teach students concepts that appear frequently in the USACO as well as other major programming competitions.'
 registration: 'https://docs.google.com/forms/d/e/1FAIpQLSdNJv6bgEJRaT_lJKfb-q2YsmnA3qNHzGx3g2-NfShchX5lCg/viewform'
 type: 'Online Class'
