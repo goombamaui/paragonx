@@ -135,6 +135,11 @@ export default {
           name: 'Andrew Liang',
           image: '/images/bio/andrew.png',
           bio: 'Andrew Liang is a junior at the Harker School. He is a USACO Gold contestant and International Science and Engineering Fair (ISEF) Finalist. He enjoys teaching other students and helping them discover their own passions. In his spare time, he likes to play chess and listen to classical music.'
+        },
+        {
+          name: 'Andrew Xie',
+          image: '/images/bio/andrewxie.jpg',
+          bio: 'Andrew (Weian) Xie is a junior at The Hotchkiss School in Connecticut. An avid fan of math contests, he has qualified for the AIME 4 times, USAJMO 2 times, where he earned Top Winner and attended MOP in 2023. He is very passionate about promoting mathematical interest in younger kids, especially in under-represented communities, having co-founded a middle school math competition sponsored by his school, as well as AoPS and AwesomeMath. Outside of math, he enjoys playing the piano, reading poetry, cross country practice, and listening to R&B.'
         }
       ]
     }
