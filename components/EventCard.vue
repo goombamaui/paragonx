@@ -36,6 +36,9 @@
         <v-chip v-if="event.attendees" small class="mr-1 mb-2">
           {{ event.attendees }}
         </v-chip>
+        <v-chip v-if="event.recording" small class="mr-1 mb-2">
+          {{ event.recording }}
+        </v-chip>
       </div>
     </div>
   </v-card>

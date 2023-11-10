@@ -50,6 +50,9 @@
         <v-chip v-if="content.attendees" class="mr-1 mb-2">
           {{ content.attendees }}
         </v-chip>
+        <v-chip v-if="content.recording" class="mr-1 mb-2">
+          {{ content.recording }}
+        </v-chip>
       </div>
       <div class="d-sm-none">
         <v-list-item v-if="content.instructor" class="pl-0">
