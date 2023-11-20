@@ -224,10 +224,10 @@ export default {
         value: '1000'
       }, {
         title: 'Courses and Events',
-        value: '17'
+        value: '26'
       }, {
         title: 'Classes Taught',
-        value: '110+'
+        value: '150+'
       }]
     }
   },

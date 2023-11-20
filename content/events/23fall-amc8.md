@@ -8,7 +8,7 @@ instructor: Aarush Vailaya and Neil Krishnan
 description: 'This course is for students who have a solid understanding of Algebra 1 and Geometry and are aiming for a high score on the AMC 8.'
 registration: 'https://docs.google.com/forms/d/e/1FAIpQLSf0bgktYEPT_JZ-QCDeSY8SHObjYRB4dO7CWxBEVz4-2wALcw/viewform'
 type: 'Online Class'
-open: True
+open: False
 season: 'Fall 2023'
 ---
 

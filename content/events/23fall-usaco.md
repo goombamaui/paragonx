@@ -8,7 +8,7 @@ instructor: Juliana Li and Andrew Liang
 description: 'This 8-class course is designed to teach students concepts that appear frequently in the USACO as well as other major programming competitions.'
 registration: 'https://docs.google.com/forms/d/e/1FAIpQLSdNJv6bgEJRaT_lJKfb-q2YsmnA3qNHzGx3g2-NfShchX5lCg/viewform'
 type: 'Online Class'
-open: True
+open: False
 season: 'Fall 2023'
 ---
 

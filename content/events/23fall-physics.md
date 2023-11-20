@@ -8,7 +8,7 @@ instructor: Jacqueline Huang
 description: 'This 8-week course is designed to teach students the fundamentals of classical physics and to prepare them for the F=ma competition and the AP Physics 1.'
 registration: 'https://docs.google.com/forms/d/e/1FAIpQLSdgj4UVtetVhUAx8VMX3exXTHjHRgOzOZ5k9PznTKaz-rK05g/viewform'
 type: 'Online Class'
-open: True
+open: False
 season: 'Fall 2023'
 ---
 
