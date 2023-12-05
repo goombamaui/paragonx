@@ -140,6 +140,11 @@ export default {
           name: 'Andrew Xie',
           image: '/images/bio/andrewxie.jpg',
           bio: 'Andrew (Weian) Xie is a junior at The Hotchkiss School in Connecticut. An avid fan of math contests, he has qualified for the AIME 4 times, USAJMO 2 times, where he earned Top Winner and attended MOP in 2023. He is very passionate about promoting mathematical interest in younger kids, especially in under-represented communities, having co-founded a middle school math competition sponsored by his school, as well as AoPS and AwesomeMath. Outside of math, he enjoys playing the piano, reading poetry, cross country practice, and listening to R&B.'
+        },
+        {
+          name: 'Sophia Liu',
+          image: '/images/bio/sophia.png',
+          bio: 'Sophia Liu is a junior at The Harker School. Her research focuses on the cognitive sciences—how early childhood development shapes later cognition, and how neurodegenerative diseases may be impacted by genetic signature. Outside of research, she enjoys robotics, cross country, and art. She is passionate about fine arts and graphic design, managing media and public relations for some other organizations.'
         }
       ]
     }
