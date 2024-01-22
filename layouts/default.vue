@@ -50,8 +50,8 @@
           <div class="secondary--text">
             © ParagonX Academy
           </div>
-          <a href="mailto:joe5050.li@gmail.com" class="text-decoration-none ml-sm-2 secondary--text text--lighten-3">
-            joe5050.li@gmail.com
+          <a href="mailto:contact@paragonx.academy" class="text-decoration-none ml-sm-2 secondary--text text--lighten-3">
+            contact@paragonx.academy
           </a>
         </div>
       </v-container>
