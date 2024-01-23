@@ -182,7 +182,7 @@ export default {
       }, {
         icon: 'mdi-file-tree',
         title: 'Structured Curriculum and Homework',
-        description: 'This fall, our courses consist of eight classes, and the curriculum spanning these classes have been carefully cultivated by our instructors to maximize the usefulness and quality of knowledge that students will gain. Homework will also be assigned after each class. '
+        description: 'Our courses consist of eight classes, and the curriculum spanning these classes have been carefully cultivated by our instructors to maximize the usefulness and quality of knowledge that students will gain. Homework will also be assigned after each class. '
       }],
       testimonials: [{
         name: 'AMC 8 Student',
