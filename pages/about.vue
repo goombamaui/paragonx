@@ -124,7 +124,7 @@ export default {
         {
           name: 'Aarush Vailaya',
           image: '/images/bio/aarush.png',
-          bio: 'Aarush Vailaya is a junior at the Harker School. He is a 3 time qualifier of AIME, won 1st place in both the Synopsys Physical Sciences & Engineering as well as the Bay Area Math Olympiad, and competed in many math events, including the Stanford Math Tournament, AMC 10, AIME, and USAMTS. While not doing math, he enjoys working on random coding projects and playing piano.'
+          bio: 'Aarush Vailaya is a junior at the Harker School. He is a 4 time qualifier of AIME, won 1st place in both the Synopsys Physical Sciences & Engineering as well as the Bay Area Math Olympiad, and competed in many math events, including the Stanford Math Tournament, AMC 10, AIME, and USAMTS. While not doing math, he enjoys working on random coding projects and playing piano.'
         },
         {
           name: 'Terry Xie',
@@ -145,6 +145,11 @@ export default {
           name: 'Sophia Liu',
           image: '/images/bio/sophia.png',
           bio: 'Sophia Liu is a junior at The Harker School. Her research focuses on the cognitive sciences—how early childhood development shapes later cognition, and how neurodegenerative diseases may be impacted by genetic signature. Outside of research, she enjoys robotics, cross country, and art. She is passionate about fine arts and graphic design, managing media and public relations for some other organizations.'
+        },
+        {
+          name: 'Kallie Wang',
+          image: '/images/bio/kallie.png',
+          bio: 'Kallie Wang is a sophomore at the Harker School who is passionate about math and the sciences. She is a 4x AIME qualifier, 3x Math Prize for Girls qualifier, and earned a perfect score on the 2022 AMC 8. She has won multiple awards at the Synopsys Science Fair and the California Science and Engineering Fair, and she has been named a 2x Top 300 Broadcom MASTER for her research. In her free time, she enjoys dancing and reading.'
         }
       ]
     }

@@ -1,11 +1,11 @@
 ---
-title: 'AMC 8'
+title: 'AMC 8*'
 location: Zoom
 time: 'Saturday 3:30 PM-4:30 PM PT'
-dateStart: '2024-02-10'
-dateEnd: '2024-03-23'
+dateStart: '2024-02-24'
+dateEnd: '2024-04-06'
 instructor: Alex Huang
-description: 'This course is for students who have a solid understanding of Algebra 1 and Geometry and are aiming for a high score on the AMC 8.'
+description: 'This course is for students who have a solid understanding of Algebra 1 and Geometry and are aiming for a high score on the AMC 8. * The start date has changed from 2/10 to 2/24.'
 registration: 'https://docs.google.com/forms/d/e/1FAIpQLScY0wrcySxAgtS9xDxU5cTiLWhpO_-ro5je7wqs-kI9hW68kA/viewform'
 type: 'Online Class'
 open: True
