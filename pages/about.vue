@@ -150,6 +150,11 @@ export default {
           name: 'Kallie Wang',
           image: '/images/bio/kallie.png',
           bio: 'Kallie Wang is a sophomore at the Harker School who is passionate about math and the sciences. She is a 4x AIME qualifier, 3x Math Prize for Girls qualifier, and earned a perfect score on the 2022 AMC 8. She has won multiple awards at the Synopsys Science Fair and the California Science and Engineering Fair, and she has been named a 2x Top 300 Broadcom MASTER for her research. In her free time, she enjoys dancing and reading.'
+        },
+        {
+          name: 'Yash Belani',
+          image: '/images/bio/yash.png',
+          bio: 'Yash Belani is a freshman at the Harker School. He recently started USACO and is competing in the USACO Silver with c++. In his free time, he enjoys playing video games, basketball, or solving problems.'
         }
       ]
     }
