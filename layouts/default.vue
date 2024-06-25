@@ -82,6 +82,10 @@ export default {
           title: 'About'
         },
         {
+          link: '/past',
+          title: 'Past Officers'
+        },
+        {
           external_link: 'https://forms.gle/1bef9xLmSrFmpcop9',
           title: 'Join Us'
         }
