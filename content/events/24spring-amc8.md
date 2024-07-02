@@ -8,7 +8,7 @@ instructor: Alex Huang
 description: 'This course is for students who have a solid understanding of Algebra 1 and Geometry and are aiming for a high score on the AMC 8. * The start date has changed from 2/10 to 2/24.'
 registration: 'https://docs.google.com/forms/d/e/1FAIpQLScY0wrcySxAgtS9xDxU5cTiLWhpO_-ro5je7wqs-kI9hW68kA/viewform'
 type: 'Online Class'
-open: True
+open: False
 season: 'Spring 2024'
 ---
 

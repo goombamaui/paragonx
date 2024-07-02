@@ -26,7 +26,7 @@ export default {
           name: 'Juliana Li',
           image: '/images/bio/juliana.png',
           title: 'Co-President',
-          bio: 'Juliana Li is a senior at the Harker School. She is a 3x AIME qualifier, was invited to MathCounts Nationals, is competing in USACO Gold, and has coded in many languages, including C++, Python, Java, LISP, and HTML & CSS. In her free time, she enjoys dancing, as she has won many awards in dance, especially ballet.'
+          bio: 'Juliana Li is a senior at the Harker School. She is a 4x AIME qualifier, was invited to MathCounts Nationals, is competing in USACO Gold, and won 1st place in biology research at both the local & state science fair. In her free time, she enjoys web/app development, volunteering, and dancing.'
         },
         {
           name: 'Jacqueline Huang',
@@ -76,7 +76,17 @@ export default {
         {
           name: 'Yash Belani',
           image: '/images/bio/yash.png',
-          bio: 'Yash Belani is a sophomore at the Harker School. He recently started USACO and is competing in the USACO Silver with c++. In his free time, he enjoys playing video games, basketball, or solving problems.'
+          bio: 'Yash Belani is a sophomore at the Harker School. He recently started USACO and is competing in the USACO Silver with C++. In his free time, he enjoys playing video games, basketball, or solving problems.'
+        },
+        {
+          name: 'Pascal Qin',
+          image: '/images/bio/pascal.png',
+          bio: 'Pascal Qin is a sophomore at the Harker School in the class of 2027. He has qualified for AIME and USAPhO, and he is currently in USACO Silver. Pascal loves to spend his time learning advanced math topics like non-Euclidean geometry, linear algebra, and differential equations, and a wide variety of physics including quantum mechanics, special relativity, and electromagnetism.'
+        },
+        {
+          name: 'Cyrus Ghane',
+          image: '/images/bio/cyrus.png',
+          bio: 'Cyrus Ghane is a junior at The Harker School. He has earned an honorable mention on the USAPhO and qualified for the AIME twice. He is especially interested in the intersection of physics and neuroscience and enjoys playing soccer and the guitar in his free time.'
         }
       ]
     }

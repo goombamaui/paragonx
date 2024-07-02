@@ -8,7 +8,7 @@ instructor: Terry Xie
 description: 'This course is intended for students who are interested in biology and want to participate in the USABO.'
 registration: 'https://forms.gle/p68euSnH3V2e1X56A'
 type: 'Online Class'
-open: True
+open: False
 season: 'Spring 2024'
 ---
 
