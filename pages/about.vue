@@ -56,7 +56,7 @@ export default {
           name: 'Sophia Liu',
           image: '/images/bio/sophia.png',
           title: 'Head of Outreach',
-          bio: 'Sophia Liu is a senior at The Harker School. Her research focuses on the cognitive sciences—how early childhood development shapes later cognition, and how neurodegenerative diseases may be impacted by genetic signature. Outside of research, she enjoys robotics, cross country, and art. She is passionate about fine arts and graphic design, managing media and public relations for some other organizations.'
+          bio: 'Sophia Liu is a senior at The Harker School. A lover of graphic design and fine arts, she manages outreach/media for a few organizations, serves as an art editor for The Expressionist, and is a Scholastic Arts national gold and silver medalist. Aside from art, she researches childhood cognitive development and neuroscience.'
         },
         {
           name: 'Andrew Liang',
@@ -87,6 +87,16 @@ export default {
           name: 'Cyrus Ghane',
           image: '/images/bio/cyrus.png',
           bio: 'Cyrus Ghane is a junior at The Harker School. He has earned an honorable mention on the USAPhO and qualified for the AIME twice. He is especially interested in the intersection of physics and neuroscience and enjoys playing soccer and the guitar in his free time.'
+        },
+        {
+          name: 'Ryan Miao',
+          image: '/images/bio/ryan.png',
+          bio: 'Ryan is a sophomore at The Harker School. He competes in the USACO Gold Division in C++ and had experience in Java and Python. He is also interested in Neuroscience and Artificial Intelligence and enjoys playing tennis and dancing in his free time.'
+        },
+        {
+          name: 'Ellie Zhou',
+          image: '/images/bio/ellie.png',
+          bio: 'Ellie is a sophomore at The Harker School. She is competing in USACO gold, has qualified for AIME several times, and led a team making it to the Wharton Global High School Investment Competition finale. In her free time, she loves problem-solving, swimming, dancing, and playing with her dog.'
         }
       ]
     }
