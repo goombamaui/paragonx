@@ -60,8 +60,15 @@ export default {
         },
         {
           name: 'Andrew Liang',
+          title: 'Head of Computer Science',
           image: '/images/bio/andrew.png',
           bio: 'Andrew Liang is a senior at the Harker School. He is a USACO Gold contestant and International Science and Engineering Fair (ISEF) Finalist. He enjoys teaching other students and helping them discover their own passions. In his spare time, he likes to play chess and listen to classical music.'
+        },
+        {
+          name: 'Pascal Qin',
+          title: 'Head of Physics',
+          image: '/images/bio/pascal.png',
+          bio: 'Pascal Qin is a sophomore at the Harker School in the class of 2027. He has qualified for AIME and USAPhO, and he is currently in USACO Silver. Pascal loves to spend his time learning advanced math topics like non-Euclidean geometry, linear algebra, and differential equations, and a wide variety of physics including quantum mechanics, special relativity, and electromagnetism.'
         },
         {
           name: 'Andrew Xie',
@@ -71,17 +78,12 @@ export default {
         {
           name: 'Kallie Wang',
           image: '/images/bio/kallie.png',
-          bio: 'Kallie Wang is a junior at the Harker School who is passionate about math and the sciences. She is a 4x AIME qualifier, 3x Math Prize for Girls qualifier, and earned a perfect score on the 2022 AMC 8. She has won multiple awards at the Synopsys Science Fair and the California Science and Engineering Fair, and she has been named a 2x Top 300 Broadcom MASTER for her research. In her free time, she enjoys dancing and reading.'
+          bio: 'Kallie Wang is a junior at the Harker School who is passionate about math and the sciences. She won a USAJMO honorable mention award in 2024 and is a 4x AIME qualifier, 3x Math Prize for Girls qualifier, and USAPhO semifinalist. This summer, Kallie participated in SUMaC. In 2022, she earned a perfect score on the AMC 8. She has won multiple awards at the Synopsys Science Fair and the California Science and Engineering Fair, and has been named a Top 300 Broadcom MASTER for her research twice. In her free time, she enjoys dancing and reading.'
         },
         {
           name: 'Yash Belani',
           image: '/images/bio/yash.png',
           bio: 'Yash Belani is a sophomore at the Harker School. He recently started USACO and is competing in the USACO Silver with C++. In his free time, he enjoys playing video games, basketball, or solving problems.'
-        },
-        {
-          name: 'Pascal Qin',
-          image: '/images/bio/pascal.png',
-          bio: 'Pascal Qin is a sophomore at the Harker School in the class of 2027. He has qualified for AIME and USAPhO, and he is currently in USACO Silver. Pascal loves to spend his time learning advanced math topics like non-Euclidean geometry, linear algebra, and differential equations, and a wide variety of physics including quantum mechanics, special relativity, and electromagnetism.'
         },
         {
           name: 'Cyrus Ghane',
@@ -97,6 +99,11 @@ export default {
           name: 'Ellie Zhou',
           image: '/images/bio/ellie.png',
           bio: 'Ellie is a sophomore at The Harker School. She is competing in USACO gold, has qualified for AIME several times, and led a team making it to the Wharton Global High School Investment Competition finale. In her free time, she loves problem-solving, swimming, dancing, and playing with her dog.'
+        },
+        {
+          name: 'James Lin',
+          image: '/images/bio/james.png',
+          bio: 'James Lin is a junior at The Harker School. He is a USACO platinum contestant, three-time AIME qualifier, and USAJMO qualifier. He has also competed in many math and computer science competitions, such as SMT, Teamscode, and LIT. In his free time, he reads and listens to music.'
         }
       ]
     }
