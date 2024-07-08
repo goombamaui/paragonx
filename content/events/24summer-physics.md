@@ -2,8 +2,8 @@
 title: 'AP Physics 1/F=ma'
 location: Zoom
 time: 'Saturday 3:00 PM-4:30 PM PT'
-dateStart: '2024-07-27'
-dateEnd: '2024-08-17'
+dateStart: '2024-08-03'
+dateEnd: '2024-08-24'
 instructor: Cyrus Ghane
 description: 'This course is for students looking for a basic understanding of physics concepts and are preparing for AP Physics 1 or F=ma.'
 registration: 'https://forms.gle/zdrGrhA2ih6tAzdd8'

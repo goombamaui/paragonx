@@ -150,6 +150,25 @@
         </v-col>
       </v-row>
     </v-container>
+    <v-container class="mt-4">
+      <h3 class="text-md-h3 text-h4 text-center">
+        Partners
+      </h3>
+
+      <v-row class="mt-4">
+        <v-col
+          v-for="(item, i) in partners"
+          :key="i"
+          class="justify-center d-flex"
+        >
+          <a :href="item.link">
+            <v-avatar size="150">
+              <v-img :src="item.image" />
+            </v-avatar>
+          </a>
+        </v-col>
+      </v-row>
+    </v-container>
   </div>
 </template>
 
@@ -228,6 +247,11 @@ export default {
       }, {
         title: 'Classes Taught',
         value: '150+'
+      }],
+      partners: [{
+        name: 'Olympiad Prep Hub',
+        image: '/images/partners/olympiadprephub.png',
+        link: 'https://olympiadprephub.com/'
       }]
     }
   },
