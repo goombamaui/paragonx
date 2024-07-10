@@ -1,7 +1,7 @@
 ---
 title: 'AP Physics 1/F=ma'
 location: Zoom
-time: 'Saturday 3:00 PM-4:30 PM PT'
+time: 'Saturday 3:00 PM-4:00 PM PT'
 dateStart: '2024-08-03'
 dateEnd: '2024-08-24'
 instructor: Cyrus Ghane
