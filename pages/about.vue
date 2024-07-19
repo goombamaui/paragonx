@@ -104,6 +104,11 @@ export default {
           name: 'James Lin',
           image: '/images/bio/james.png',
           bio: 'James Lin is a junior at The Harker School. He is a USACO platinum contestant, three-time AIME qualifier, and USAJMO qualifier. He has also competed in many math and computer science competitions, such as SMT, Teamscode, and LIT. In his free time, he reads and listens to music.'
+        },
+        {
+          name: 'Karthik Veeramallu',
+          image: '/images/bio/karthik.png',
+          bio: 'Karthik Veeramallu is a rising junior at Obra D Tompkins Highschool who is an AIME qualifier, the president of his school\'s physics club, and an officer of his school\'s math club. Fluent in Java, he is interested in building projects and modeling real world scenarios . In his free time, he enjoys working his job, volunteering, and teaching independently.'
         }
       ]
     }
