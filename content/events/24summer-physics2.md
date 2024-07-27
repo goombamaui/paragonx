@@ -1,9 +1,9 @@
 ---
 title: 'Electromagnetism for AP Physics 2 and C'
 location: Zoom
-time: 'Saturday 10 AM-11:30 AM PT'
-dateStart: '2024-07-27'
-dateEnd: '2024-08-17'
+time: 'Sunday 10 AM-11:30 AM PT'
+dateStart: '2024-07-28'
+dateEnd: '2024-08-18'
 instructor: Pascal Qin
 description: 'This course is for students who have completed high school physics or AP Physics 1 with a strong, solid foundation in algebra, who want to learn more about electromagnetism.'
 registration: 'https://forms.gle/sUSWRG4Udajmrcd67'
