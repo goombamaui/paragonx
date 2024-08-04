@@ -32,13 +32,13 @@ export default {
           name: 'Jacqueline Huang',
           image: '/images/bio/jacqueline.png',
           title: 'Vice President',
-          bio: 'Jacqueline Huang is a senior at the Harker School. She is a USAPhO semifinalist and 3x AIME qualifier and is interested in applied physics. She has several years of experience in teaching math and science, and she enjoys hiking and reading in her free time.'
+          bio: 'Jacqueline Huang is a senior at the Harker School. She is a USAPhO medalist and 4x AIME qualifier and is interested in applied physics. She has several years of experience in teaching math and science, and she enjoys hiking and reading in her free time.'
         },
         {
           name: 'Aarush Vailaya',
           image: '/images/bio/aarush.png',
           title: 'Vice President',
-          bio: 'Aarush Vailaya is a senior at the Harker School. He is a 4 time qualifier of AIME, won 1st place in both the Synopsys Physical Sciences & Engineering as well as the Bay Area Math Olympiad, a USAMTS gold medalist, and competed in many math events, including the Stanford Math Tournament, AMC 10, AIME, and USAMTS. He also participated in the HCSSiM and SUMaC summer programs, and does math research through PRIMES-USA. While not doing math, he enjoys working on random coding projects, grinding Wynncraft, and playing piano.'
+          bio: 'Aarush Vailaya is a senior at the Harker School. He is a 4 time qualifier of AIME, won 1st place in both the Synopsys Physical Sciences & Engineering as well as the Bay Area Math Olympiad, a USAMTS gold medalist, and competed in many math events, including the Stanford Math Tournament, AMC 10, and AIME. He also participated in the HCSSiM and SUMaC summer programs, and does math research through PRIMES-USA. While not doing math, he enjoys working on random coding projects, grinding Wynncraft, and playing piano.'
         },
         {
           name: 'Neil Krishnan',
