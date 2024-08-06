@@ -240,7 +240,7 @@ export default {
       ],
       stats: [{
         title: 'Students Impacted',
-        value: '1000'
+        value: '1500' //total value: 1485, summer 2024 (not including events or spring 2024)
       }, {
         title: 'Courses and Events',
         value: '26'
