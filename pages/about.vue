@@ -109,6 +109,11 @@ export default {
           name: 'Karthik Veeramallu',
           image: '/images/bio/karthik.png',
           bio: 'Karthik Veeramallu is a rising junior at Obra D Tompkins Highschool who is an AIME qualifier, the president of his school\'s physics club, and an officer of his school\'s math club. Fluent in Java, he is interested in building projects and modeling real world scenarios . In his free time, he enjoys working his job, volunteering, and teaching independently.'
+        },
+        {
+          name: 'Harshil Nukala',
+          image: '/images/bio/harshil.png',
+          bio: 'Harshil Nukala is a junior at Dougherty Valley High School. He is really interested in multiple STEM subjects and participated in many competitions from AMC and AIME to F=ma and USACO. Outside of olympiads, he is interested in the field of positive geometry. Harshil has many years of experience in teaching and loves to help the younger generation. In his free time, he likes to go on bike rides, play badminton, and practice carnatic singing.'
         }
       ]
     }
