@@ -114,6 +114,11 @@ export default {
           name: 'Harshil Nukala',
           image: '/images/bio/harshil.png',
           bio: 'Harshil Nukala is a junior at Dougherty Valley High School. He is really interested in multiple STEM subjects and participated in many competitions from AMC and AIME to F=ma and USACO. Outside of olympiads, he is interested in the field of positive geometry. Harshil has many years of experience in teaching and loves to help the younger generation. In his free time, he likes to go on bike rides, play badminton, and practice carnatic singing.'
+        },
+        {
+          name: 'Hengrui Liang',
+          image: '/images/bio/hengrui.png',
+          bio: 'Hengrui is a sophomore at The Harker School. He has earned a USAMO Bronze Medal, USAJMO Winner, DHR in AMC 10 and AMC 12, and first place in SMT subject test. In his free time, he enjoys playing chess and board/card games, reading science magazines, and hiking.'
         }
       ]
     }
