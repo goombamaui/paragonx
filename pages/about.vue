@@ -119,6 +119,11 @@ export default {
           name: 'Hengrui Liang',
           image: '/images/bio/hengrui.png',
           bio: 'Hengrui is a sophomore at The Harker School. He has earned a USAMO Bronze Medal, USAJMO Winner, DHR in AMC 10 and AMC 12, and first place in SMT subject test. In his free time, he enjoys playing chess and board/card games, reading science magazines, and hiking.'
+        },
+        {
+          name: 'Samuel Tong',
+          image: '/images/bio/samuel.png',
+          bio: 'Samuel is a junior at The Harker School. He competes in the USACO Silver division, and he uses his expertise in computer science on bioinformatics and drug reaction models. Samuel is a retired fencer, and he loves watching dramas and walking his dog.'
         }
       ]
     }
