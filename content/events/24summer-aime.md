@@ -8,7 +8,7 @@ instructor: Aarush Vailaya and Neil Krishnan
 description: 'This four-week course is for students with experience in middle school math competitions such as AMC 8 and MathCounts who are aiming to qualify for and earn at least five to ten points on the AIME.'
 registration: 'https://forms.gle/Zp2wQ6pvGpYuQJss7'
 type: 'Online Class'
-open: True
+open: False
 season: 'Summer 2024'
 ---
 

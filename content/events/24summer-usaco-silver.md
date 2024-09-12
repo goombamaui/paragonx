@@ -8,7 +8,7 @@ instructor: Ryan Miao and James Lin
 description: 'This four-class course is designed to teach students concepts that appear frequently in the USACO as well as other major programming competitions.'
 registration: 'https://forms.gle/hfeo8EfxWT5ULw5f8'
 type: 'Online Class'
-open: True
+open: False
 season: 'Summer 2024'
 ---
 

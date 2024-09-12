@@ -8,7 +8,7 @@ instructor: Cyrus Ghane
 description: 'This course is for students looking for a basic understanding of physics concepts and are preparing for AP Physics 1 or F=ma.'
 registration: 'https://forms.gle/zdrGrhA2ih6tAzdd8'
 type: 'Online Class'
-open: True
+open: False
 season: 'Summer 2024'
 ---
 

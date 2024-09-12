@@ -8,7 +8,7 @@ instructor: Pascal Qin
 description: 'This course is for students who have completed high school physics or AP Physics 1 with a strong, solid foundation in algebra, who want to learn more about electromagnetism.'
 registration: 'https://forms.gle/sUSWRG4Udajmrcd67'
 type: 'Online Class'
-open: True
+open: False
 season: 'Summer 2024'
 ---
 

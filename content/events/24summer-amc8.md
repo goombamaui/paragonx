@@ -8,7 +8,7 @@ instructor: Kallie Wang
 description: 'This course is for students who have a solid understanding of Algebra 1 and Geometry and are aiming for a high score on the AMC 8.'
 registration: 'https://forms.gle/YoJfLKWGCdWexuRaA'
 type: 'Online Class'
-open: True
+open: False
 season: 'Summer 2024'
 ---
 

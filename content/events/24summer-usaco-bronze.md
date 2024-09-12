@@ -8,7 +8,7 @@ instructor: Yash Belani and Ellie Zhou
 description: 'This four-class course is designed to teach students the key concepts frequently encountered in the USACO Bronze division and other major programming competitions.'
 registration: 'https://forms.gle/c1vZcbfVLJd14oos9'
 type: 'Online Class'
-open: True
+open: False
 season: 'Summer 2024'
 ---
 
