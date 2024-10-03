@@ -1,7 +1,7 @@
 ---
 title: 'USACO Bronze'
 location: Zoom
-time: 'Sunday 1-2PM PT'
+time: 'Saturday 1-2PM PT'
 dateStart: '2024-10-05'
 dateEnd: '2024-11-23'
 instructor: Yash Belani and Ellie Zhou

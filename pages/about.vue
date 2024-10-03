@@ -108,7 +108,7 @@ export default {
         {
           name: 'Karthik Veeramallu',
           image: '/images/bio/karthik.png',
-          bio: 'Karthik Veeramallu is a rising junior at Obra D Tompkins Highschool who is an AIME qualifier, the president of his school\'s physics club, and an officer of his school\'s math club. Fluent in Java, he is interested in building projects and modeling real world scenarios . In his free time, he enjoys working his job, volunteering, and teaching independently.'
+          bio: 'Karthik Veeramallu is a rising junior at Obra D. Tompkins Highschool who is an AIME qualifier, the president of his school\'s physics club, and an officer of his school\'s math club. Fluent in Java, he is interested in building projects and modeling real world scenarios . In his free time, he enjoys working his job, volunteering, and teaching independently.'
         },
         {
           name: 'Harshil Nukala',
@@ -124,6 +124,11 @@ export default {
           name: 'Samuel Tong',
           image: '/images/bio/samuel.png',
           bio: 'Samuel is a junior at The Harker School. He competes in the USACO Silver division, and he uses his expertise in computer science on bioinformatics and drug reaction models. Samuel is a retired fencer, and he loves watching dramas and walking his dog.'
+        },
+        {
+          name: 'Anushka Polapally',
+          image: '/images/bio/anushka.png',
+          bio: 'Anushka Polapally is a junior at Obra D. Tompkins High School in Katy, Texas. She is an AIME qualifier and USACO Silver qualifier, along with being an officer of her school’s math club. Anushka is very passionate about teaching competition math to others, shown by her contribution to forming a contest math team and classes at her high school. In her free time, you can find Anushka listening to music, playing with her dog, and eating food with her friends.'
         }
       ]
     }
