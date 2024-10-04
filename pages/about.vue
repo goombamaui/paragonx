@@ -129,6 +129,11 @@ export default {
           name: 'Anushka Polapally',
           image: '/images/bio/anushka.png',
           bio: 'Anushka Polapally is a junior at Obra D. Tompkins High School in Katy, Texas. She is an AIME qualifier and USACO Silver qualifier, along with being an officer of her school’s math club. Anushka is very passionate about teaching competition math to others, shown by her contribution to forming a contest math team and classes at her high school. In her free time, you can find Anushka listening to music, playing with her dog, and eating food with her friends.'
+        },
+        {
+          name: 'Lucas Wu',
+          image: '/images/bio/lucas.png',
+          bio: 'Lucas Wu is a freshman at The Harker School. He is an AIME Qualifier and won Honorable Mention at the Synopsys Science and Engineering Fair. Lucas is deeply passionate about physics, especially Electromagnetism, and can often be found doing interesting physics problems. Outside of math and science, he plays basketball, piano, and runs outside.'
         }
       ]
     }
