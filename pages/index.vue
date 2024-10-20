@@ -222,20 +222,32 @@ export default {
       ],
       slides: [
         {
-          image: '/images/carousel/1.png',
-          caption: 'Arjun Gurjar, Biology and USABO, Fall 2022'
+          image: '/images/carousel/2024-1.png',
+          caption: 'Pascal Qin and Cyrus Ghane, Electromagnetism for AP Physics 2 and AP Physics C, Fall 2024'
         },
         {
-          image: '/images/carousel/2.png',
-          caption: 'Alex Huang, AMC 8, Fall 2022'
+          image: '/images/carousel/2024-2.png',
+          caption: 'Hengrui Liang and Anushka Polapally, AMC 8, Fall 2024'
         },
         {
-          image: '/images/carousel/3.png',
-          caption: 'Austin Geng and Neil Krishnan, AMC 10/12 to AIME, Fall 2022'
+          image: '/images/carousel/2024-3.png',
+          caption: 'Karthik Veeramallu, AP Physics 1 to F=ma, Fall 2024'
         },
         {
-          image: '/images/carousel/4.png',
-          caption: 'Thomas Liu, USACO Bronze, Fall 2022'
+          image: '/images/carousel/2024-4.png',
+          caption: 'Yash Belani and Ellie Zhou, USACO Bronze, Fall 2024'
+        },
+        {
+          image: '/images/carousel/2024-5.png',
+          caption: 'Terry Xie, Introduction to Human Anatomy and Physiology, Fall 2024'
+        },
+        {
+          image: '/images/carousel/2024-6.png',
+          caption: 'Harshil Nukala, AMC 10/12 to AIME, Fall 2024'
+        },
+        {
+          image: '/images/carousel/2024-7.png',
+          caption: 'Ryan Miao and Samuel Tong, USACO Silver, Fall 2024'
         }
       ],
       stats: [{
