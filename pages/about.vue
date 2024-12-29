@@ -123,7 +123,7 @@ export default {
         {
           name: 'Samuel Tong',
           image: '/images/bio/samuel.png',
-          bio: 'Samuel is a junior at The Harker School. He competes in the USACO Silver division, and he uses his expertise in computer science on bioinformatics and drug reaction models. Samuel is a retired fencer, and he loves watching dramas and walking his dog.'
+          bio: 'Samuel is a junior at The Harker School. He competes in the USACO Gold division, and he uses his expertise in computer science on bioinformatics and drug reaction models. Samuel is a retired fencer, and he loves watching dramas and walking his dog.'
         },
         {
           name: 'Anushka Polapally',
