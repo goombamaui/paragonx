@@ -20,7 +20,7 @@ export default {
           name: 'Alex Huang',
           title: 'Co-President',
           image: '/images/bio/alex.jpg',
-          bio: 'Alex Huang is a senior at The Harker School who is a 2021 MathCounts National Round qualifier, three-time AIME qualifier, participant in The Ross Mathematics Program 2023 and 2024, and USAMTS Silver Prize Winner. Fluent in C++, Java, and Python, he is interested in both competitive programming and research about the applications of deep learning. In his free time, he is passionate about volunteer teaching and has won the President\'s Volunteer Service Gold Award three times.'
+          bio: 'Alex Huang is a senior at The Harker School who is a 2021 MathCounts National Round qualifier, four-time AIME qualifier, participant in The Ross Mathematics Program 2023 and 2024, and PRIMES-USA 2024 researcher. Fluent in C++, Java, and Python, he enjoys applying scientific machine learning to elucidate biophysical processes. To disseminate his knowledge to aspiring students, he has led volunteer teaching initiatives and has won the President\'s Volunteer Service Gold Award three times. In his free time, he enjoys playing bridge and engaging friends in thought-provoking conversations.'
         },
         {
           name: 'Juliana Li',
@@ -83,7 +83,7 @@ export default {
         {
           name: 'Yash Belani',
           image: '/images/bio/yash.png',
-          bio: 'Yash Belani is a sophomore at the Harker School. He recently started USACO and is competing in the USACO Silver with C++. In his free time, he enjoys playing video games, basketball, or solving problems.'
+          bio: 'Yash Belani is a sophomore at the Harker School. He is competing in the USACO Gold with C++. In his free time, he enjoys playing video games, basketball, or solving problems.'
         },
         {
           name: 'Cyrus Ghane',
