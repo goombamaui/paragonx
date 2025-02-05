@@ -55,7 +55,7 @@ export default {
         {
           name: 'Arjun Gurjar',
           title: 'Berkeley \'28',
-          image: '/images/bio/arjun.jpg',
+          image: '/images/bio/arjung.jpg',
           bio: 'Arjun Gurjar graduated from The Harker School in 2024. In addition to being a nationalist in the North South Science Bee, he is passionate about biology and has many years of experience in teaching students as well as conducting wet lab research. Apart from studying for USABO, Arjun likes editing videos, going on walks, and listening to music.'
         },
         {
