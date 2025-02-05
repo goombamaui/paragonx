@@ -93,7 +93,7 @@ export default {
         {
           name: 'Ryan Miao',
           image: '/images/bio/ryan.png',
-          bio: 'Ryan is a sophomore at The Harker School. He competes in the USACO Gold Division in C++ and had experience in Java and Python. He is also interested in Neuroscience and Artificial Intelligence and enjoys playing tennis and dancing in his free time.'
+          bio: 'Ryan is a sophomore at The Harker School. He is an AIME qualifier, competes in the USACO Gold Division in C++ and has experience in Java and Python. He is also interested in Neuroscience and Artificial Intelligence and enjoys playing tennis and dancing in his free time.'
         },
         {
           name: 'Ellie Zhou',
@@ -134,6 +134,16 @@ export default {
           name: 'Lucas Wu',
           image: '/images/bio/lucas.png',
           bio: 'Lucas Wu is a freshman at The Harker School. He is an AIME Qualifier and won Honorable Mention at the Synopsys Science and Engineering Fair. Lucas is deeply passionate about physics, especially Electromagnetism, and can often be found doing interesting physics problems. Outside of math and science, he plays basketball, piano, and runs outside.'
+        },
+        {
+          name: 'Vaishnav Krishnan',
+          image: '/images/bio/vaishnav.png',
+          bio: 'Vaishnav is a junior at Obra D. Tompkins High School in Katy, Texas. He represents his school in UIL Computer Science and is currently competing in USACO Gold. He is very passionate about teaching computer science and enjoys learning advanced techniques in computer science such as centroid decomposition and treaps. In his free time, he likes playing music and working out at the gym.'
+        },
+        {
+          name: 'Arjun Joisha',
+          image: '/images/bio/arjunj.png',
+          bio: 'Arjun Joisha is a junior at the Lynbrook High School. He is a 3-time AIME qualifier, won a bronze medal twice at the PiMC, and continues to compete in several other regional and college mathematics competitions, including the Stanford Math Tournament and the Berkeley Math Tournament. When not working on math competitions, he enjoys pursuing his hobby of competitive programming, reading interesting math articles, or working on research in algebraic geometry. In his free time, you can find him hanging out with his friends, or playing chess or Minecraft.'
         }
       ]
     }
