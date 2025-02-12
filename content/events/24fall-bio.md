@@ -8,7 +8,7 @@ instructor: Terry Xie
 description: 'This 8-week course will introduce students to the fundamental concepts of the structure and function of the human body.'
 registration: 'https://docs.google.com/forms/d/e/1FAIpQLSf-UGN9Admt_1lrVA2grNYzKOm_V-_uLMoixI22bYrOtlUJXg/viewform?usp=sharing'
 type: 'Online Class'
-open: True
+open: False
 season: 'Fall 2024'
 ---
 

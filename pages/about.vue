@@ -144,6 +144,11 @@ export default {
           name: 'Arjun Joisha',
           image: '/images/bio/arjunj.png',
           bio: 'Arjun Joisha is a junior at the Lynbrook High School. He is a 3-time AIME qualifier, won a bronze medal twice at the PiMC, and continues to compete in several other regional and college mathematics competitions, including the Stanford Math Tournament and the Berkeley Math Tournament. When not working on math competitions, he enjoys pursuing his hobby of competitive programming, reading interesting math articles, or working on research in algebraic geometry. In his free time, you can find him hanging out with his friends, or playing chess or Minecraft.'
+        },
+        {
+          name: 'Shamik Khowala',
+          image: '/images/bio/shamik.png',
+          bio: 'Shamik Khowala is a sophomore at the Harker School. He has qualified for AIME four times as well as participated in many college math competitions, including BMT, HMMT, and SMT. In his free time, he loves to explore advanced math and physics topics and solve interesting problems.'
         }
       ]
     }

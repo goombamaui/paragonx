@@ -6,7 +6,7 @@ dateStart: '2024-12-01'
 description: 'Speaker event with USACO Finalist and USAPHO Gold Medalist Joe Li (Stanford ‘28), MOP and US Physics Team Training Invitee Agastya Goel (Gunn ‘25), and 1st place winner of Intel Global AI Contest and Founder of Audemy Crystal Yang (Tompkins High ‘25).'
 registration: 'https://forms.gle/4vPTcDbAGBAwUX6z5'
 type: 'Speaker Event'
-open: True
+open: False
 zoom: 'https://us04web.zoom.us/j/5811597930?pwd=UCtVSGZoU1d0V0Q3WEJ3QXJTVEQ0UT09'
 ---
 

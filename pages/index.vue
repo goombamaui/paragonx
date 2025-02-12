@@ -9,7 +9,7 @@
       </div>
       <div class="mt-6">
         <v-btn x-large depressed to="/events" color="primary" class="my-1 mr-sm-1 w-full w-sm-auto">
-          Fall 2024 Courses
+          Spring 2025 Courses
         </v-btn>
         <v-btn x-large outlined href="https://discord.com/invite/kSXnnMm244" target="_blank" class="my-1 ml-sm-1 w-full w-sm-auto">
           Join Discord
@@ -252,13 +252,13 @@ export default {
       ],
       stats: [{
         title: 'Students Impacted',
-        value: '1500' //total value: 1485, summer 2024 (not including events or spring 2024)
+        value: '1500' // total value: 1485, summer 2024 (not including events or spring 2024)
       }, {
         title: 'Courses and Events',
         value: '36' // summer 2024
       }, {
         title: 'Classes Taught',
-        value: '200+' //total value: 216, summer 2024
+        value: '200+' // total value: 216, summer 2024
       }],
       partners: [{
         name: 'Olympiad Prep Hub',

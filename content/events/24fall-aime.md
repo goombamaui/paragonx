@@ -8,7 +8,7 @@ instructor: Harshil Nukala
 description: 'This eight-week course is for students aiming to qualify for the AIME and already have experience with math competitions (from competitions such as AMC 8 and MathCounts).'
 registration: 'https://docs.google.com/forms/d/e/1FAIpQLSd7VjYlmptVzG9NPcHDARQPZtHlyUAOb2GSkFTb7wtkrm2nHw/viewform?usp=sharing'
 type: 'Online Class'
-open: True
+open: False
 season: 'Fall 2024'
 ---
 

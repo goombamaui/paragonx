@@ -8,7 +8,7 @@ instructor: Pascal Qin and Cyrus Ghane
 description: 'The ParagonX E&M course is a course for students who have completed high school physics or AP Physics 1 with a strong, solid foundation in calculus. It covers most of topics in AP Physics C Electromagnetism.'
 registration: 'https://docs.google.com/forms/d/e/1FAIpQLSc3hX-WoH01Gjbd4UtXfpV5zFlxHDCQQxZrghODfAQ2te0SoA/viewform?usp=sharing'
 type: 'Online Class'
-open: True
+open: False
 season: 'Fall 2024'
 ---
 

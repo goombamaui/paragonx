@@ -8,7 +8,7 @@ instructor: Ryan Miao and Samuel Tong
 description: 'This eight-class course is designed to teach students concepts that appear frequently in the USACO as well as other major programming competitions.'
 registration: 'https://forms.gle/uwowcKh4XCVRmue5A'
 type: 'Online Class'
-open: True
+open: False
 season: 'Fall 2024'
 ---
 

@@ -8,7 +8,7 @@ instructor: Karthik Veeramallu
 description: 'This course will help students make the jump from the AP Physics 1 class to the necessary problem-solving skills required for competitions. Prior knowledge of AP Physics 1 is recommended but not required.'
 registration: 'https://docs.google.com/forms/d/e/1FAIpQLSeNj7t1CcQXcjjNtp22xU0Qp47M51n42pvYte5TSmttnsGB9A/viewform?usp=sharing'
 type: 'Online Class'
-open: True
+open: False
 season: 'Fall 2024'
 ---
 

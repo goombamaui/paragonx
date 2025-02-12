@@ -8,7 +8,7 @@ instructor: Hengrui Liang and Anushka Polapally
 description: 'This course is for students who have a solid understanding of Algebra 1 and Geometry and are aiming for a high score on the AMC 8.'
 registration: 'https://docs.google.com/forms/d/e/1FAIpQLSeH2ftUpJwpBG3U1HE6efnxTPCE7RX2VzRF7-IYk5SM1w9L8Q/viewform?usp=sharing'
 type: 'Online Class'
-open: True
+open: False
 season: 'Fall 2024'
 ---
 
