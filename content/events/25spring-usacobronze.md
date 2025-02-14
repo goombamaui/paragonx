@@ -1,7 +1,7 @@
 ---
 title: 'USACO Bronze'
 location: Zoom
-time: 'Sunday 5:00 PM-6:00 PM PT'
+time: 'Sunday 6:30 PM-7:30 PM PT'
 dateStart: '2025-03-02'
 dateEnd: '2025-04-20'
 instructor: Ellie Zhou and Vaishnav Krishnan
