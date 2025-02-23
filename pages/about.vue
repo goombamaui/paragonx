@@ -108,7 +108,7 @@ export default {
         {
           name: 'Karthik Veeramallu',
           image: '/images/bio/karthik.png',
-          bio: 'Karthik Veeramallu is a rising junior at Obra D. Tompkins Highschool who is an AIME qualifier, the president of his school\'s physics club, and an officer of his school\'s math club. Fluent in Java, he is interested in building projects and modeling real world scenarios . In his free time, he enjoys working his job, volunteering, and teaching independently.'
+          bio: 'Karthik Veeramallu is a junior at Obra D. Tompkins High School in Katy, Texas, who is an AIME qualifier, the president of his school\'s physics club, and an officer of his school\'s math club. Fluent in Java, he is interested in building projects and modeling real world scenarios. In his free time, he enjoys working his job, volunteering, and teaching independently.'
         },
         {
           name: 'Harshil Nukala',
