@@ -260,11 +260,18 @@ export default {
         title: 'Classes Taught',
         value: '200+' // total value: 216, summer 2024
       }],
-      partners: [{
-        name: 'Olympiad Prep Hub',
-        image: '/images/partners/olympiadprephub.png',
-        link: 'https://olympiadprephub.com/'
-      }]
+      partners: [
+        {
+          name: 'Olympiad Prep Hub',
+          image: '/images/partners/olympiadprephub.png',
+          link: 'https://olympiadprephub.com/'
+        },
+        {
+          name: 'Mitosisphere',
+          image: '/images/partners/mitosisphere.png',
+          link: 'https://mitosisphere.org/'
+        }
+      ]
     }
   },
   head () {
