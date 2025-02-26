@@ -4,7 +4,7 @@
       <h2 class="text-md-h2 text-h3 text-center">
         People behind ParagonX Academy
       </h2>
-      <div style="width: 80px; height: 4px" class="my-4 secondary mx-auto" />
+      <img src="/images/group_photo.png" alt="Group photo of ParagonX Academy team" class="group-photo">
     </v-container>
     <officer-list :people="people" title="Current Officers" />
   </div>
@@ -36,7 +36,7 @@ export default {
         },
         {
           name: 'Aarush Vailaya',
-          image: '/images/bio/aarush.png',
+          image: '/images/bio/aarush.jpg',
           title: 'Vice President',
           bio: 'Aarush Vailaya is a senior at the Harker School. He is a 4 time qualifier of AIME, won 1st place in both the Synopsys Physical Sciences & Engineering as well as the Bay Area Math Olympiad, a USAMTS gold medalist, and competed in many math events, including the Stanford Math Tournament, AMC 10, and AIME. He also participated in the HCSSiM and SUMaC summer programs, and does math research through PRIMES-USA. While not doing math, he enjoys working on random coding projects, grinding Wynncraft, and playing piano.'
         },
