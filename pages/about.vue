@@ -68,7 +68,7 @@ export default {
           name: 'Pascal Qin',
           title: 'Head of Physics',
           image: '/images/bio/pascal.png',
-          bio: 'Pascal Qin is a sophomore at the Harker School in the class of 2027. He has qualified for AIME and USAPhO, and he is currently in USACO Silver. Pascal loves to spend his time learning advanced math topics like non-Euclidean geometry, linear algebra, and differential equations, and a wide variety of physics including quantum mechanics, special relativity, and electromagnetism.'
+          bio: 'Pascal Qin is a sophomore at The Harker School. He has qualified for AIME, USAPhO, the National Astronomy Competition, and USACO Silver. Pascal has studied physics for two years now and has participated in several physics contests, such as USAYPT and Physics Brawl. In his free time, he enjoys playing basketball and listening to music.'
         },
         {
           name: 'Andrew Xie',
