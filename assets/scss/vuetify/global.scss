@@ -103,3 +103,13 @@ $carousel-controls-bg: none;
 
 // Main
 $main-transition: none;
+
+.group-photo {
+  display: block;
+  margin: 55px auto 10px auto !important; /* Keep spacing but ensure centering */
+  width: 60%;
+  max-width: 800px;
+  border-radius: 10px;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
