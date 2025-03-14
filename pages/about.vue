@@ -71,6 +71,12 @@ export default {
           bio: 'Pascal Qin is a sophomore at The Harker School. He has qualified for AIME, USAPhO, the National Astronomy Competition, and USACO Silver. Pascal has studied physics for two years now and has participated in several physics contests, such as USAYPT and Physics Brawl. In his free time, he enjoys playing basketball and listening to music.'
         },
         {
+          name: 'Teresa Song',
+          title: 'Graphic Designer',
+          bio: 'Teresa Song is a freshman at the Harker School in San Jose, California. She is a national Scholastic gold medalist. In her free time, she creates haute couture-esque clothing and grinds Tetris.',
+          image: '/images/bio/teresa.jpg'
+        },
+        {
           name: 'Andrew Xie',
           image: '/images/bio/andrewxie.jpg',
           bio: 'Andrew (Weian) Xie is a senior at The Hotchkiss School in Connecticut. An avid fan of math contests, he has qualified for the AIME 4 times, USAJMO 2 times, where he earned Top Winner and attended MOP in 2023. He is very passionate about promoting mathematical interest in younger kids, especially in under-represented communities, having co-founded a middle school math competition sponsored by his school, as well as AoPS and AwesomeMath. Outside of math, he enjoys playing the piano, reading poetry, cross country practice, and listening to R&B.'
