@@ -1,7 +1,7 @@
 ---
 title: 'AMC 8'
 location: Zoom
-time: 'Sunday 3:30 PM - 4:30 PM PT'
+time: 'Sunday 2:30 PM - 3:30 PM PT'
 dateStart: '2025-03-02'
 dateEnd: '2025-04-20'
 instructor: Hengrui Liang and Anushka Polapally
