@@ -155,6 +155,11 @@ export default {
           name: 'Shamik Khowala',
           image: '/images/bio/shamik.png',
           bio: 'Shamik Khowala is a sophomore at the Harker School. He has qualified for AIME four times as well as participated in many college math competitions, including BMT, HMMT, and SMT. In his free time, he loves to explore advanced math and physics topics and solve interesting problems.'
+        },
+        {
+          name: 'Leo Zhang',
+          image: '/images/bio/leo.png',
+          bio: "Leo Zhang is a sophomore at The Harker School. He has qualified for AIME two times and made it to the national level of USNCO. In his free time, he enjoys playing chess, Brawl Stars, card games, and solving difficult logic puzzles."
         }
       ]
     }
