@@ -160,6 +160,16 @@ export default {
           name: 'Leo Zhang',
           image: '/images/bio/leo.png',
           bio: "Leo Zhang is a sophomore at The Harker School. He has qualified for AIME two times and made it to the national level of USNCO. In his free time, he enjoys playing chess, Brawl Stars, card games, and solving difficult logic puzzles."
+        },
+        {
+          name: 'William Jiang',
+          image: '/images/bio/william.png',
+          bio: 'William is a sophomore at The Harker School. He is very passionate about physics and chemistry, participating in competitions like USAYPT, Physics Brawl, and USNCO, as well as working on research projects related to the intersection of physics, chemistry, and machine learning. In his free time, he enjoys playing chess and solving interesting physics problems.'
+        },
+        {
+          name: "Kevin He",
+          image: "/images/bio/kevinhe.png",
+          bio: "Kevin is a sophomore at The Harker School. He has qualified for the AIME, USAPhO and also takes part in other STEM related activities such as USAYPT, USNCO, and robotics where he is a design lead on the school team. In his free time, he loves to play golf, saxophone, and chess."
         }
       ]
     }
