@@ -38,13 +38,13 @@ export default {
           name: 'Aarush Vailaya',
           image: '/images/bio/aarush.jpg',
           title: 'Vice President',
-          bio: 'Aarush Vailaya is a senior at the Harker School. He is a 4 time qualifier of AIME, won 1st place in both the Synopsys Physical Sciences & Engineering as well as the Bay Area Math Olympiad, a USAMTS gold medalist, and competed in many math events, including the Stanford Math Tournament, AMC 10, and AIME. He also participated in the HCSSiM and SUMaC summer programs, and does math research through PRIMES-USA. While not doing math, he enjoys working on random coding projects, grinding Wynncraft, and playing piano.'
+          bio: 'Aarush Vailaya is a senior at the Harker School. He is a 5 time qualifier of AIME, 1 time qualifier of USAMO, won 1st place in both the Synopsys Physical Sciences & Engineering as well as the Bay Area Math Olympiad, a USAMTS gold medalist, and competed in many math events, including the Stanford Math Tournament, AMC 10, and AIME. He also participated in the HCSSiM and SUMaC summer programs, and does math research through PRIMES-USA. While not doing math, he enjoys working on random coding projects, grinding Wynncraft, and playing piano.'
         },
         {
           name: 'Neil Krishnan',
           image: '/images/bio/neil.jpg',
           title: 'Head of Math',
-          bio: 'Neil Krishnan is a senior at The Harker School. In addition to getting 1st award in Synopsys Physical Sciences & Engineering and qualifying for CSEF and Broadcom Masters, he has done a lot of math as a four-time AIME qualifier, USAMTS gold winner (near perfect score), and recipient of multiple distinguished honorable mentions in BMT. He has also participated in in math summer programs, namely Hampshire College Summer Studies in Mathematics and USA-Canada MathCamp. Neil also likes doing mathematical research on friends-and-stranger graphs and graph connectivity. In his free time, he enjoys playing piano and doing NYT mini crosswords (and the regular if he feels smart that day).'
+          bio: 'Neil Krishnan is a senior at The Harker School. In addition to getting 1st award in Synopsys Physical Sciences & Engineering and qualifying for CSEF and Broadcom Masters, he has done a lot of math as a five-time AIME qualifier, USAMO qualifier, USAMTS gold winner (near perfect score), and recipient of multiple distinguished honorable mentions in BMT. He has also participated in in math summer programs, namely Hampshire College Summer Studies in Mathematics and USA-Canada MathCamp. Neil also likes doing mathematical research on friends-and-stranger graphs and graph connectivity. In his free time, he enjoys playing piano and doing NYT mini crosswords (and the regular if he feels smart that day).'
         },
         {
           name: 'Terry Xie',
@@ -71,6 +71,12 @@ export default {
           bio: 'Pascal Qin is a sophomore at The Harker School. He has qualified for AIME, USAPhO, the National Astronomy Competition, and USACO Silver. Pascal has studied physics for two years now and has participated in several physics contests, such as USAYPT and Physics Brawl. In his free time, he enjoys playing basketball and listening to music.'
         },
         {
+          name: 'Leo Zhang',
+          title: 'Head of Chemistry',
+          image: '/images/bio/leo.png',
+          bio: 'Leo Zhang is a sophomore at The Harker School. He has qualified for AIME two times and made it to the national level of USNCO. In his free time, he enjoys playing chess, Brawl Stars, card games, and solving difficult logic puzzles.'
+        },
+        {
           name: 'Teresa Song',
           title: 'Graphic Designer',
           bio: 'Teresa Song is a freshman at the Harker School in San Jose, California. She is a national Scholastic gold medalist. In her free time, she creates haute couture-esque clothing and grinds Tetris.',
@@ -89,7 +95,7 @@ export default {
         {
           name: 'Yash Belani',
           image: '/images/bio/yash.png',
-          bio: 'Yash Belani is a sophomore at the Harker School. He is competing in the USACO Gold with C++. In his free time, he enjoys playing video games, basketball, or solving problems.'
+          bio: 'Yash Belani is a sophomore at the Harker School. He is competing in the USACO Platinum with C++. In his free time, he enjoys playing video games, basketball, or solving problems.'
         },
         {
           name: 'Cyrus Ghane',
@@ -157,19 +163,19 @@ export default {
           bio: 'Shamik Khowala is a sophomore at the Harker School. He has qualified for AIME four times as well as participated in many college math competitions, including BMT, HMMT, and SMT. In his free time, he loves to explore advanced math and physics topics and solve interesting problems.'
         },
         {
-          name: 'Leo Zhang',
-          image: '/images/bio/leo.png',
-          bio: "Leo Zhang is a sophomore at The Harker School. He has qualified for AIME two times and made it to the national level of USNCO. In his free time, he enjoys playing chess, Brawl Stars, card games, and solving difficult logic puzzles."
-        },
-        {
           name: 'William Jiang',
           image: '/images/bio/william.png',
           bio: 'William is a sophomore at The Harker School. He is very passionate about physics and chemistry, participating in competitions like USAYPT, Physics Brawl, and USNCO, as well as working on research projects related to the intersection of physics, chemistry, and machine learning. In his free time, he enjoys playing chess and solving interesting physics problems.'
         },
         {
-          name: "Kevin He",
-          image: "/images/bio/kevinhe.png",
-          bio: "Kevin is a sophomore at The Harker School. He has qualified for the AIME, USAPhO and also takes part in other STEM related activities such as USAYPT, USNCO, and robotics where he is a design lead on the school team. In his free time, he loves to play golf, saxophone, and chess."
+          name: 'Kevin He',
+          image: '/images/bio/kevinhe.png',
+          bio: 'Kevin is a sophomore at The Harker School. He has qualified for the AIME, USAPhO and also takes part in other STEM related activities such as USAYPT, USNCO, and robotics where he is a design lead on the school team. In his free time, he loves to play golf, saxophone, and chess.'
+        },
+        {
+          name: 'Shreyas Kini',
+          image: '/images/bio/shreyas.jpg',
+          bio: 'Shreyas Kini is a junior at Obra D. Tompkins High School in Katy, Texas. He is a two time USABO Semifinalist, the president of his science olympiad and biology clubs, and has placed as a runner up in the Brain Bee Texas division. Shreyas is excited to spreading a passion for biology in others, as seen in his past experience as a director of the American Regional Biology Competition nonprofit. Outside of biology, Shreyas loves to play basketball, go on long runs, work out at the gym, and play the cello.'
         }
       ]
     }
