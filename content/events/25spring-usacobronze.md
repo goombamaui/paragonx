@@ -3,7 +3,7 @@ title: 'USACO Bronze'
 location: Zoom
 time: 'Sunday 6:30 PM-7:30 PM PT'
 dateStart: '2025-03-02'
-dateEnd: '2025-04-20'
+dateEnd: '2025-04-27'
 instructor: Ellie Zhou and Vaishnav Krishnan
 description: 'This eight-class course is designed to teach students the key concepts frequently encountered in the USACO Bronze division and other major programming competitions. The concepts covered range from USACO Bronze to a brief introduction to USACO Silver. Classes will consist of a lecture and a problem-solving session, and homework will be assigned weekly.'
 registration: 'https://forms.gle/bnNDZvHHXb5wDq3p8'
