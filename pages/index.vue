@@ -222,32 +222,36 @@ export default {
       ],
       slides: [
         {
-          image: '/images/carousel/2024-1.png',
-          caption: 'Pascal Qin and Cyrus Ghane, Electromagnetism for AP Physics 2 and AP Physics C, Fall 2024'
+          image: '/images/carousel/2025-1.png',
+          caption: 'Karthik Veeramallu and Harshil Nukala, AP Physics 1, Spring 2025'
         },
         {
-          image: '/images/carousel/2024-2.png',
-          caption: 'Hengrui Liang and Anushka Polapally, AMC 8, Fall 2024'
+          image: '/images/carousel/2025-2.png',
+          caption: 'Vaishnav Krishnan, USACO Bronze, Spring 2025'
         },
         {
-          image: '/images/carousel/2024-3.png',
-          caption: 'Karthik Veeramallu, AP Physics 1 to F=ma, Fall 2024'
+          image: '/images/carousel/2025-3.png',
+          caption: 'Pascal Qin, F=ma, Spring 2025'
         },
         {
-          image: '/images/carousel/2024-4.png',
-          caption: 'Yash Belani and Ellie Zhou, USACO Bronze, Fall 2024'
+          image: '/images/carousel/2025-4.png',
+          caption: 'Yash Belani and Ryan Miao, USACO Silver, Spring 2025'
         },
         {
-          image: '/images/carousel/2024-5.png',
-          caption: 'Terry Xie, Introduction to Human Anatomy and Physiology, Fall 2024'
+          image: '/images/carousel/2025-5.png',
+          caption: 'Lucas Wu, Electromagnetism, Spring 2025'
         },
         {
-          image: '/images/carousel/2024-6.png',
-          caption: 'Harshil Nukala, AMC 10/12 to AIME, Fall 2024'
+          image: '/images/carousel/2025-6.png',
+          caption: 'Terry Xie, Introduction to USABO, Spring 2025'
         },
         {
-          image: '/images/carousel/2024-7.png',
-          caption: 'Ryan Miao and Samuel Tong, USACO Silver, Fall 2024'
+          image: '/images/carousel/2025-7.png',
+          caption: 'Anushka Polapally, AMC 8, Spring 2025'
+        },
+        {
+          image: '/images/carousel/2025-8.png',
+          caption: 'Kallie Wang and Arjun Joisha, AMC 10/12 to AIME, Spring 2025'
         }
       ],
       stats: [{
