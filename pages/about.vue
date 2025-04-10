@@ -82,15 +82,15 @@ export default {
       ],
       cs: [
         {
-          name: 'Andrew Liang',
-          title: 'Head of Computer Science',
-          image: '/images/bio/andrew.png',
-          bio: 'Andrew Liang is a senior at the Harker School. He is a USACO Gold contestant and International Science and Engineering Fair (ISEF) Finalist. He enjoys teaching other students and helping them discover their own passions. In his spare time, he likes to play chess and listen to classical music.'
-        },
-        {
           name: 'Yash Belani',
+          title: 'Head of Computer Science',
           image: '/images/bio/yash.png',
           bio: 'Yash Belani is a sophomore at the Harker School. He is competing in the USACO Platinum with C++. In his free time, he enjoys playing video games, basketball, or solving problems.'
+        },
+        {
+          name: 'Andrew Liang',
+          image: '/images/bio/andrew.png',
+          bio: 'Andrew Liang is a senior at the Harker School. He is a USACO Gold contestant and International Science and Engineering Fair (ISEF) Finalist. He enjoys teaching other students and helping them discover their own passions. In his spare time, he likes to play chess and listen to classical music.'
         },
         {
           name: 'Ryan Miao',
@@ -194,6 +194,12 @@ export default {
           title: 'Graphic Designer',
           bio: 'Teresa Song is a freshman at the Harker School in San Jose, California. She is a national Scholastic gold medalist. In her free time, she creates haute couture-esque clothing and grinds Tetris.',
           image: '/images/bio/teresa.jpg'
+        },
+        {
+          name: 'Akshitaa Arun',
+          title: 'Officer of International Outreach',
+          bio: 'Akshitaa Arun (Akshu/Ash) is a Rising Senior in Tamil Nadu, India. She has attended various math camps in India such as PROMYS INDIA 2024, RAMTP 2023, AGMNC 2022 & 2023. She is a teaching assistant Athemath, a part of the international outreach team of URBAN HARMONY PROJECT and runs NC^2! She enjoys tutoring outside school, and showing people that math can be fun! She loves puzzles (especially sudoku) and singing!',
+          image: '/images/bio/akshitaa.png'
         }
       ]
     }
