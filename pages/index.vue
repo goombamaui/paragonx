@@ -222,36 +222,40 @@ export default {
       ],
       slides: [
         {
-          image: '/images/carousel/2025-1.png',
+          image: '/images/carousel/2025-1.webp',
           caption: 'Karthik Veeramallu and Harshil Nukala, AP Physics 1, Spring 2025'
         },
         {
-          image: '/images/carousel/2025-2.png',
+          image: '/images/carousel/2025-2.webp',
           caption: 'Vaishnav Krishnan, USACO Bronze, Spring 2025'
         },
         {
-          image: '/images/carousel/2025-3.png',
+          image: '/images/carousel/2025-3.webp',
           caption: 'Pascal Qin, F=ma, Spring 2025'
         },
         {
-          image: '/images/carousel/2025-4.png',
+          image: '/images/carousel/2025-4.webp',
           caption: 'Yash Belani and Ryan Miao, USACO Silver, Spring 2025'
         },
         {
-          image: '/images/carousel/2025-5.png',
+          image: '/images/carousel/2025-5.webp',
           caption: 'Lucas Wu, Electromagnetism, Spring 2025'
         },
         {
-          image: '/images/carousel/2025-6.png',
+          image: '/images/carousel/2025-6.webp',
           caption: 'Terry Xie, Introduction to USABO, Spring 2025'
         },
         {
-          image: '/images/carousel/2025-7.png',
+          image: '/images/carousel/2025-7.webp',
           caption: 'Anushka Polapally, AMC 8, Spring 2025'
         },
         {
-          image: '/images/carousel/2025-8.png',
+          image: '/images/carousel/2025-8.webp',
           caption: 'Kallie Wang and Arjun Joisha, AMC 10/12 to AIME, Spring 2025'
+        },
+        {
+          image: '/images/carousel/2025-9.png',
+          caption: 'Aarush Vailaya, Graph Theory, Spring 2025'
         }
       ],
       stats: [{
