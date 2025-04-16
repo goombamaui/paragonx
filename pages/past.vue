@@ -24,7 +24,7 @@ export default {
         },
         {
           name: 'Austin Geng',
-          title: 'MIT \'28',
+          title: 'Massachusetts Institute of Technology \'28',
           image: '/images/bio/austin.jpg',
           bio: 'Austin Geng graduated from the Benjamin Franklin High School in 2024. He is an International Olympiad in Informatics Gold Medalist and Math Olympiad Program invitee and has narrowly missed a perfect AMC10. In both math and competitive programming, he especially enjoys ad hoc problems. In his free time, he likes to code (unrelatedly in JavaScript) and play video games.'
         },
@@ -36,13 +36,13 @@ export default {
         },
         {
           name: 'Harry Chen',
-          title: 'Caltech \'28',
+          title: 'California Institute of Technology \'28',
           image: '/images/bio/harry.jpg',
           bio: 'Harry graduated from Northwood High School in Irvine in 2024. He competed in USACO Platinum and has experience in full-stack web development. Harry also was involved with NLP research. In his free time Harry likes to play tennis.'
         },
         {
           name: 'Thomas Liu',
-          title: 'MIT \'28',
+          title: 'Massachusetts Institute of Technology \'28',
           image: '/images/bio/thomas.jpg',
           bio: 'Thomas graduated from The Harker School in 2024. Fluent in C++, he enjoys competitive programming and is a USACO Finalist. In his spare time he enjoys playing video games and solving coding problems. He also dabbles in web development and AI.'
         },
@@ -60,13 +60,13 @@ export default {
         },
         {
           name: 'Kevin Zhang',
-          title: 'UIUC \'28',
+          title: 'University of Illinois Urbana-Champaign \'28',
           image: '/images/bio/kevin.png',
           bio: 'Kevin graduated from The Harker School in 2024. Besides studying computer science and physical sciences, he is also interested in arts and design with experience in digital mediums such as Photoshop and Canva. He was also a graphic designer for the Harker Programming Club and produced media for his school’s journalism program too. In his free time, he enjoys photo and video editing, as well as playing and watching basketball.'
         },
         {
           name: 'Dustin Miao',
-          title: 'CMU \'28',
+          title: 'Carnegie Melon University \'28',
           image: '/images/bio/dustin.jpg',
           bio: 'Dustin graduated from the Harker School in 2024. He is in USACO\'s platinum division and a master on Codeforces, and is also interested in web development and artificial intelligence. In his spare time, he enjoys playing cello.'
         },
@@ -78,6 +78,7 @@ export default {
         },
         {
           name: 'Henry Yao',
+          title: 'Johns Hopkins University \'28'
           image: '/images/bio/henry.png',
           bio: 'Henry graduated from Lynbrook High School in 2024. He is passionate about STEM overall, and has won USAJMO HM and AMC10 DHR three times, and came close to USAPHO along with 5\'s in most AP Physics content. He is also passionate about STEM research and has taught and TA\'d classes at Alphastar and other summer camps. When he isn\'t grinding school, Henry enjoys biking, eating food, and listening to music.'
         },
