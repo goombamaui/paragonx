@@ -55,11 +55,6 @@ export default {
           bio: 'Neil Krishnan is a senior at The Harker School. In addition to getting 1st award in Synopsys Physical Sciences & Engineering and qualifying for CSEF and Broadcom Masters, he has done a lot of math as a five-time AIME qualifier, USAMO qualifier, USAMTS gold winner (near perfect score), and recipient of multiple distinguished honorable mentions in BMT. He has also participated in in math summer programs, namely Hampshire College Summer Studies in Mathematics and USA-Canada MathCamp. Neil also likes doing mathematical research on friends-and-stranger graphs and graph connectivity. In his free time, he enjoys playing piano and doing NYT mini crosswords (and the regular if he feels smart that day).'
         },
         {
-          name: 'Andrew Xie',
-          image: '/images/bio/andrewxie.jpg',
-          bio: 'Andrew (Weian) Xie is a senior at The Hotchkiss School in Connecticut. An avid fan of math contests, he has qualified for the AIME 4 times, USAJMO 2 times, where he earned Top Winner and attended MOP in 2023. He is very passionate about promoting mathematical interest in younger kids, especially in under-represented communities, having co-founded a middle school math competition sponsored by his school, as well as AoPS and AwesomeMath. Outside of math, he enjoys playing the piano, reading poetry, cross country practice, and listening to R&B.'
-        },
-        {
           name: 'Kallie Wang',
           image: '/images/bio/kallie.png',
           bio: 'Kallie Wang is a junior at the Harker School who is passionate about math and the sciences. She won a USAJMO honorable mention award in 2024 and is a 4x AIME qualifier, 3x Math Prize for Girls qualifier, and USAPhO semifinalist. This summer, Kallie participated in SUMaC. In 2022, she earned a perfect score on the AMC 8. She has won multiple awards at the Synopsys Science Fair and the California Science and Engineering Fair, and has been named a Top 300 Broadcom MASTER for her research twice. In her free time, she enjoys dancing and reading.'
@@ -88,11 +83,6 @@ export default {
           bio: 'Yash Belani is a sophomore at the Harker School. He is competing in the USACO Platinum with C++. In his free time, he enjoys playing video games, basketball, or solving problems.'
         },
         {
-          name: 'Andrew Liang',
-          image: '/images/bio/andrew.png',
-          bio: 'Andrew Liang is a senior at the Harker School. He is a USACO Gold contestant and International Science and Engineering Fair (ISEF) Finalist. He enjoys teaching other students and helping them discover their own passions. In his spare time, he likes to play chess and listen to classical music.'
-        },
-        {
           name: 'Ryan Miao',
           image: '/images/bio/ryan.png',
           bio: 'Ryan is a sophomore at The Harker School. He is an AIME qualifier, competes in the USACO Gold Division in C++ and has experience in Java and Python. He is also interested in Neuroscience and Artificial Intelligence and enjoys playing tennis and dancing in his free time.'
@@ -101,11 +91,6 @@ export default {
           name: 'Ellie Zhou',
           image: '/images/bio/ellie.png',
           bio: 'Ellie is a sophomore at The Harker School. She is competing in USACO gold, has qualified for AIME several times, and led a team making it to the Wharton Global High School Investment Competition finale. In her free time, she loves problem-solving, swimming, dancing, and playing with her dog.'
-        },
-        {
-          name: 'James Lin',
-          image: '/images/bio/james.png',
-          bio: 'James Lin is a junior at The Harker School. He is a USACO platinum contestant, three-time AIME qualifier, and USAJMO qualifier. He has also competed in many math and computer science competitions, such as SMT, Teamscode, and LIT. In his free time, he reads and listens to music.'
         },
         {
           name: 'Samuel Tong',
@@ -133,7 +118,7 @@ export default {
         {
           name: 'Karthik Veeramallu',
           image: '/images/bio/karthik.png',
-          bio: 'Karthik Veeramallu is a junior at Obra D. Tompkins High School in Katy, Texas, who is an AIME qualifier, the president of his school\'s physics club, and an officer of his school\'s math club. Fluent in Java, he is interested in building projects and modeling real world scenarios. In his free time, he enjoys working his job, volunteering, and teaching independently.'
+          bio: 'Karthik Veeramallu is a junior at Obra D. Tompkins High School in Katy, Texas, who is an AIME qualifier, USAPhO qualifier, the president of his school\'s physics club, and an officer of his school\'s math club. Fluent in Java, he is interested in building projects and modeling real world scenarios. In his free time, he enjoys working his job, volunteering, and teaching independently.'
         },
         {
           name: 'Harshil Nukala',
