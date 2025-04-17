@@ -78,7 +78,7 @@ export default {
         },
         {
           name: 'Henry Yao',
-          title: 'Johns Hopkins University \'28'
+          title: 'Johns Hopkins University \'28',
           image: '/images/bio/henry.png',
           bio: 'Henry graduated from Lynbrook High School in 2024. He is passionate about STEM overall, and has won USAJMO HM and AMC10 DHR three times, and came close to USAPHO along with 5\'s in most AP Physics content. He is also passionate about STEM research and has taught and TA\'d classes at Alphastar and other summer camps. When he isn\'t grinding school, Henry enjoys biking, eating food, and listening to music.'
         },
