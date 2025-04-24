@@ -44,7 +44,7 @@ export default {
           name: 'Aarush Vailaya',
           image: '/images/bio/aarush.jpg',
           title: 'Vice President',
-          bio: 'Aarush Vailaya is a senior at the Harker School. He is a 5 time qualifier of AIME, 1 time qualifier of USAMO, won 1st place in both the Synopsys Physical Sciences & Engineering as well as the Bay Area Math Olympiad, a USAMTS gold medalist, and competed in many math events, including the Stanford Math Tournament, AMC 10, and AIME. He also participated in the HCSSiM and SUMaC summer programs, and does math research through PRIMES-USA. While not doing math, he enjoys working on random coding projects, grinding Wynncraft, and playing piano.'
+          bio: 'Aarush Vailaya is a senior at the Harker School. He is a 5 time qualifier of AIME, USAMO gold medalist, won 1st place in both the Synopsys Physical Sciences & Engineering as well as the Bay Area Math Olympiad, a USAMTS gold medalist, and competed in many math events, including the Stanford Math Tournament, AMC 10, and AIME. He also participated in the HCSSiM and SUMaC summer programs, and does math research through PRIMES-USA. While not doing math, he enjoys working on random coding projects, grinding Wynncraft, and playing piano.'
         }
       ],
       math: [
@@ -52,7 +52,7 @@ export default {
           name: 'Neil Krishnan',
           image: '/images/bio/neil.jpg',
           title: 'Head of Math',
-          bio: 'Neil Krishnan is a senior at The Harker School. In addition to getting 1st award in Synopsys Physical Sciences & Engineering and qualifying for CSEF and Broadcom Masters, he has done a lot of math as a five-time AIME qualifier, USAMO qualifier, USAMTS gold winner (near perfect score), and recipient of multiple distinguished honorable mentions in BMT. He has also participated in in math summer programs, namely Hampshire College Summer Studies in Mathematics and USA-Canada MathCamp. Neil also likes doing mathematical research on friends-and-stranger graphs and graph connectivity. In his free time, he enjoys playing piano and doing NYT mini crosswords (and the regular if he feels smart that day).'
+          bio: 'Neil Krishnan is a senior at The Harker School. In addition to getting 1st award in Synopsys Physical Sciences & Engineering and qualifying for CSEF and Broadcom Masters, he has done a lot of math as a five-time AIME qualifier, USAMO silver medalist, USAMTS gold winner (near perfect score), and recipient of multiple distinguished honorable mentions in BMT. He has also participated in in math summer programs, namely Hampshire College Summer Studies in Mathematics and USA-Canada MathCamp. Neil also likes doing mathematical research on friends-and-stranger graphs and graph connectivity. In his free time, he enjoys playing piano and doing NYT mini crosswords (and the regular if he feels smart that day).'
         },
         {
           name: 'Kallie Wang',
@@ -62,7 +62,7 @@ export default {
         {
           name: 'Hengrui Liang',
           image: '/images/bio/hengrui.png',
-          bio: 'Hengrui is a sophomore at The Harker School. He has earned a USAMO Bronze Medal, USAJMO Winner, DHR in AMC 10 and AMC 12, and first place in SMT subject test. In his free time, he enjoys playing chess and board/card games, reading science magazines, and hiking.'
+          bio: 'Hengrui is a sophomore at The Harker School. He received a perfect score on the 2025 USAMO and is a USAJMO Winner, DHR in AMC 10 and AMC 12, and first place in SMT subject test. In his free time, he enjoys playing chess and board/card games, reading science magazines, and hiking.'
         },
         {
           name: 'Anushka Polapally',
