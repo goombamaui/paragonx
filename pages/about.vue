@@ -62,7 +62,7 @@ export default {
         {
           name: 'Hengrui Liang',
           image: '/images/bio/hengrui.png',
-          bio: 'Hengrui is a sophomore at The Harker School. He received a perfect score on the 2025 USAMO and is a USAJMO Winner, DHR in AMC 10 and AMC 12, and first place in SMT subject test. In his free time, he enjoys playing chess and board/card games, reading science magazines, and hiking.'
+          bio: 'Hengrui is a sophomore at The Harker School. He is a USAMO medalist and is a USAJMO Winner, DHR in AMC 10 and AMC 12, and first place in SMT subject test. In his free time, he enjoys playing chess and board/card games, reading science magazines, and hiking.'
         },
         {
           name: 'Anushka Polapally',
