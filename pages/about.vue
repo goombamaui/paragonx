@@ -62,7 +62,7 @@ export default {
         {
           name: 'Hengrui Liang',
           image: '/images/bio/hengrui.png',
-          bio: 'Hengrui is a sophomore at The Harker School. He is a USAMO medalist and is a USAJMO Winner, DHR in AMC 10 and AMC 12, and first place in SMT subject test. In his free time, he enjoys playing chess and board/card games, reading science magazines, and hiking.'
+          bio: 'Hengrui is a sophomore at The Harker School. He is a USAMO medalist, USAJMO Winner, and a BMT and SMT Distinguished HM. In his free time, he enjoys playing chess and board games, reading science magazines, and hiking.'
         },
         {
           name: 'Anushka Polapally',
@@ -85,7 +85,7 @@ export default {
         {
           name: 'Ryan Miao',
           image: '/images/bio/ryan.png',
-          bio: 'Ryan is a sophomore at The Harker School. He is an AIME qualifier, competes in the USACO Gold Division in C++ and has experience in Java and Python. He is also interested in Neuroscience and Artificial Intelligence and enjoys playing tennis and dancing in his free time.'
+          bio: 'Ryan is a sophomore at The Harker School. He is an AIME qualifier, USNCO national qualifier, USACO Gold Division competitor, and has experience in Java and Python. He is also interested in Neuroscience and Artificial Intelligence and enjoys playing tennis and dancing in his free time.'
         },
         {
           name: 'Ellie Zhou',
