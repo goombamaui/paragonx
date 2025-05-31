@@ -108,7 +108,7 @@ export default {
           name: 'Pascal Qin',
           title: 'Head of Physics',
           image: '/images/bio/pascal.png',
-          bio: 'Pascal Qin is a sophomore at The Harker School. He has qualified for AIME, USAPhO, the National Astronomy Competition, and USACO Silver. Pascal has studied physics for two years now and has participated in several physics contests, such as USAYPT and Physics Brawl. In his free time, he enjoys playing basketball and listening to music.'
+          bio: 'Pascal Qin is a sophomore at The Harker School. He has qualified for AIME and USACO Silver, earned silver at USAPhO, and earned bronze at the National Astronomy Competition. Pascal has studied physics for two years now and has participated in several physics contests, such as USAYPT and Physics Brawl. In his free time, he enjoys playing basketball and listening to music.'
         },
         {
           name: 'Cyrus Ghane',
@@ -128,17 +128,17 @@ export default {
         {
           name: 'Lucas Wu',
           image: '/images/bio/lucas.png',
-          bio: 'Lucas Wu is a freshman at The Harker School. He is an AIME Qualifier and won Honorable Mention at the Synopsys Science and Engineering Fair. Lucas is deeply passionate about physics, especially Electromagnetism, and can often be found doing interesting physics problems. Outside of math and science, he plays basketball, piano, and runs outside.'
+          bio: 'Lucas Wu is a freshman at The Harker School. He is an AIME Qualifier, won Honorable Mention at the Synopsys Science and Engineering Fair, and earned an honorable mention at USAPhO. Lucas is deeply passionate about physics, especially Electromagnetism, and can often be found doing interesting physics problems. Outside of math and science, he plays basketball, piano, and runs outside.'
         },
         {
           name: 'Shamik Khowala',
           image: '/images/bio/shamik.png',
-          bio: 'Shamik Khowala is a sophomore at the Harker School. He has qualified for AIME four times as well as participated in many college math competitions, including BMT, HMMT, and SMT. In his free time, he loves to explore advanced math and physics topics and solve interesting problems.'
+          bio: 'Shamik Khowala is a sophomore at the Harker School. He has qualified for AIME four times as well as participated in several college math competitions, including BMT, HMMT, and SMT. He is also part of Harker’s Science Bowl team. He has earned a bronze medal in USAPhO and a bronze in National Astronomy Competition (NAC). At school, he is an active member of the math, physical sciences, and astronomy clubs. In his free time, he loves to explore advanced math and physics topics and solve interesting problems.'
         },
         {
           name: 'Andy Long',
           image: '/images/bio/andy.webp',
-          bio: 'Andy is a junior at Seven Lakes High School in Katy, Texas. He is really passionate about physics and is a 2x USAAAO semifinalist, TXSEF finalist, president of his school’s Physics Club, and an officer for his school’s astronomy club as well. This summer he will be participating in the Astrophysics program at SSP and in his free time he really enjoys playing pickleball and going out with friends.'
+          bio: 'Andy is a junior at Seven Lakes High School in Katy, Texas. He is really passionate about physics and is a 2x USAAAO semifinalist, TXSEF finalist, president of his school’s Physics Club, an officer for his school’s astronomy club, and a bronze medalist at the National Astronomy Competition. This summer he will be participating in the Astrophysics program at SSP and in his free time he really enjoys playing pickleball and going out with friends.'
         }
       ],
       chem: [
@@ -151,7 +151,7 @@ export default {
         {
           name: 'Kevin He',
           image: '/images/bio/kevinhe.png',
-          bio: 'Kevin is a sophomore at The Harker School. He has qualified for the AIME, USAPhO and also takes part in other STEM related activities such as USAYPT, USNCO, and robotics where he is a design lead on the school team. In his free time, he loves to play golf, saxophone, and chess.'
+          bio: 'Kevin is a sophomore at The Harker School. He has qualified for the AIME, earned an honorable mention at USAPhO, and also takes part in other STEM related activities such as USAYPT, USNCO, and robotics where he is a design lead on the school team. In his free time, he loves to play golf, saxophone, and chess.'
         },
         {
           name: 'William Jiang',
