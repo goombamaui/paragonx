@@ -4,7 +4,6 @@
       <h2 class="text-md-h2 text-h3 text-center">
         People behind ParagonX Academy
       </h2>
-      <img src="/images/group_photo.png" alt="Group photo of ParagonX Academy team" class="group-photo">
     </v-container>
     <officer-list :people="executive" title="Executive Team" />
     <officer-list :people="math" title="Mathematics Officers" />

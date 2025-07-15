@@ -7,7 +7,7 @@ dateEnd: '2025-08-25'
 instructor: Annie Yu and Sid Gaur
 description: 'This four-week course is designed for middle and high school students with a strong foundation in biology who want to explore the human body in depth.'
 
-registration: 'https://forms.gle/6S8opVG6ptq6Dy6C7'
+registration: 'https://docs.google.com/forms/d/e/1FAIpQLScRruzOBgVcUg5cVpK_s4LKcPavW5ZkymMucs8pcd7x30g3Xg/viewform'
 type: 'Online Class'
 open: True
 season: 'Summer 2025'
