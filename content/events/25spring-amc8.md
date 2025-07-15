@@ -8,7 +8,7 @@ instructor: Hengrui Liang and Anushka Polapally
 description: '*On the week of April 8th, the class will be taught from 5-6 pm instead. This course is for students who have a solid understanding of Algebra 1 and Geometry and are aiming for a high score on the AMC 8. In this eight-week program, we will teach algebra and counting skills necessary to solve AMC 8 problems and the first 15 problems on the AMC 10.'
 registration: 'https://forms.gle/qtYA1gYJW671r4qx5'
 type: 'Online Class'
-open: True
+open: False
 season: 'Spring 2025'
 ---
 

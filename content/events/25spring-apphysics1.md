@@ -8,7 +8,7 @@ instructor: Karthik Veeramallu and Harshil Nukala
 description: 'This 11-week course will help students progress from high school physics to introductory college-level physics by preparing them for the AP Physics 1: Algebra-Based exam.'
 registration: 'https://forms.gle/cXrpaHEGs3qZEZNN9'
 type: 'Online Class'
-open: True
+open: False
 season: 'Spring 2025'
 ---
 

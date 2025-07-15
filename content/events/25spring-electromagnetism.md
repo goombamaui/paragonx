@@ -8,7 +8,7 @@ instructor: Lucas Wu and Shamik Khowala
 description: 'The ParagonX E&M course is a course for students who have completed high school physics or AP Physics 1 with a strong, solid foundation in calculus. Over the course of ten classes, students will learn all the ideas covered in the AP curriculum and USAPhO exam and gain a solid understanding of the inner workings of electromagnetism.'
 registration: 'https://forms.gle/SYY9cARpw7oz4GBn7'
 type: 'Online Class'
-open: True
+open: False
 season: 'Spring 2025'
 ---
 

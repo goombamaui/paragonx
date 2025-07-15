@@ -8,7 +8,7 @@ instructor: Ellie Zhou and Vaishnav Krishnan
 description: 'This eight-class course is designed to teach students the key concepts frequently encountered in the USACO Bronze division and other major programming competitions. The concepts covered range from USACO Bronze to a brief introduction to USACO Silver. Classes will consist of a lecture and a problem-solving session, and homework will be assigned weekly.'
 registration: 'https://forms.gle/bnNDZvHHXb5wDq3p8'
 type: 'Online Class'
-open: True
+open: False
 season: 'Spring 2025'
 ---
 

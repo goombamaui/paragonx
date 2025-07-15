@@ -8,7 +8,7 @@ instructor: Terry Xie
 description: 'This course introduces students to fundamental concepts in molecular and cellular biology from the basic chemical properties that govern all living things to the workings of the most basic unit of life: the cell. These concepts provide a solid foundation for further study in biology and are essential to success on the USABO exam. Due to the high student-teacher interaction in this class, this course has been changed from 8 classes to 10 classes. The topics covered are still those listed in this syllabus, but the level of depth has increased.'
 registration: 'https://forms.gle/khuLtkH2wtNLaNif6'
 type: 'Online Class'
-open: True
+open: False
 season: 'Spring 2025'
 ---
 

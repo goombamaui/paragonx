@@ -8,7 +8,7 @@ instructor: Kallie Wang and Arjun Joisha
 description: 'This class provides preparation for the AMC 10/12 and AIME, the beginning competitions of the pathway for the eventual selection of the U.S. team for the International Mathematics Olympiad. This course covers topics in Algebra, Combinatorics, Number Theory, and Geometry that are crucial for success in these exams.'
 registration: 'https://forms.gle/32SJat9JjR12rjmr7'
 type: 'Online Class'
-open: True
+open: False
 season: 'Spring 2025'
 ---
 

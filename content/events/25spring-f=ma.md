@@ -8,7 +8,7 @@ instructor: Pascal Qin
 description: 'The ParagonX F=ma class is a 12-week course designed to prepare students for the 2026 F=ma contest. The course begins with developing stronger foundations in common subjects that may not be dealt with in depth in regular physics courses. Afterwards, the class will delve into specific tricks to solve complicated problems.'
 registration: 'https://forms.gle/SLaPkAtot8VcJ3fR7'
 type: 'Online Class'
-open: True
+open: False
 season: 'Spring 2025'
 ---
 

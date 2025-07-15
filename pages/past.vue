@@ -84,18 +84,61 @@ export default {
         },
         {
           name: 'Andrew Xie',
+          title: 'Massachusetts Institute of Technology \'29',
           image: '/images/bio/andrewxie.jpg',
           bio: 'Andrew (Weian) Xie is a senior at The Hotchkiss School in Connecticut. An avid fan of math contests, he has qualified for the AIME 4 times, USAJMO 2 times, where he earned Top Winner and attended MOP in 2023. He is very passionate about promoting mathematical interest in younger kids, especially in under-represented communities, having co-founded a middle school math competition sponsored by his school, as well as AoPS and AwesomeMath. Outside of math, he enjoys playing the piano, reading poetry, cross country practice, and listening to R&B.'
         },
         {
           name: 'Andrew Liang',
+          title: 'Stanford University \'29',
           image: '/images/bio/andrew.png',
-          bio: 'Andrew Liang is a senior at the Harker School. He is a USACO Gold contestant and International Science and Engineering Fair (ISEF) Finalist. He enjoys teaching other students and helping them discover their own passions. In his spare time, he likes to play chess and listen to classical music.'
+          bio: 'Andrew Liang graduated from The Harker School in 2025. He is a USACO Gold contestant and International Science and Engineering Fair (ISEF) Finalist. He enjoys teaching other students and helping them discover their own passions. In his spare time, he likes to play chess and listen to classical music.'
+        },
+        {
+          name: 'Alex Huang',
+          title: 'University of Virginia \'29',
+          image: '/images/bio/alex.jpg',
+          bio: 'Alex Huang graduated from The Harker School in 2025 and is a 2021 MathCounts National Round qualifier, four-time AIME qualifier, participant in The Ross Mathematics Program 2023 and 2024, and PRIMES-USA 2024 researcher. Fluent in C++, Java, and Python, he enjoys applying scientific machine learning to elucidate biophysical processes. To disseminate his knowledge to aspiring students, he has led volunteer teaching initiatives and has won the President\'s Volunteer Service Gold Award three times. In his free time, he enjoys playing bridge and engaging friends in thought-provoking conversations.'
+        },
+        {
+          name: 'Juliana Li',
+          image: '/images/bio/juliana.png',
+          title: 'Harvard University \'29',
+          bio: 'Juliana Li graduated from The Harker School in 2025. She is a 4x AIME qualifier, was invited to MathCounts Nationals, is competing in USACO Gold, and won 1st place in biology research at both the local & state science fair. In her free time, she enjoys web/app development, volunteering, and dancing.'
+        },
+        {
+          name: 'Jacqueline Huang',
+          image: '/images/bio/jacqueline.png',
+          title: 'Stanford University \'29',
+          bio: 'Jacqueline Huang graduated from The Harker School in 2025. She is a USAPhO medalist, 4x AIME qualifier, and has several years of experience in teaching math and science. She enjoys hiking and reading in her free time.'
+        },
+        {
+          name: 'Aarush Vailaya',
+          image: '/images/bio/aarush.jpg',
+          title: 'Massachusetts Institute of Technology \'29',
+          bio: 'Aarush Vailaya graduated from The Harker School in 2025. He is a 5 time qualifier of AIME, USAMO gold medalist, won 1st place in both the Synopsys Physical Sciences & Engineering as well as the Bay Area Math Olympiad, a USAMTS gold medalist, and competed in many math events, including the Stanford Math Tournament, AMC 10, and AIME. He also participated in the HCSSiM and SUMaC summer programs, and does math research through PRIMES-USA. While not doing math, he enjoys working on random coding projects, grinding Wynncraft, and playing piano.'
+        },
+        {
+          name: 'Neil Krishnan',
+          image: '/images/bio/neil.jpg',
+          title: 'Massachusetts Institute of Technology \'29',
+          bio: 'Neil Krishnan graduated from The Harker School in 2025. In addition to getting 1st award in Synopsys Physical Sciences & Engineering and qualifying for CSEF and Broadcom Masters, he has done a lot of math as a five-time AIME qualifier, USAMO silver medalist, USAMTS gold winner (near perfect score), and recipient of multiple distinguished honorable mentions in BMT. He has also participated in in math summer programs, namely Hampshire College Summer Studies in Mathematics and USA-Canada MathCamp. Neil also likes doing mathematical research on friends-and-stranger graphs and graph connectivity. In his free time, he enjoys playing piano and doing NYT mini crosswords (and the regular if he feels smart that day).'
+        },
+        {
+          name: 'Sophia Liu',
+          image: '/images/bio/sophia.png',
+          title: 'Stanford University \'29',
+          bio: 'Sophia Liu graduated from The Harker School in 2025. A lover of graphic design and fine arts, she manages outreach/media for a few organizations, serves as an art editor for The Expressionist, and is a Scholastic Arts national gold and silver medalist. Aside from art, she researches childhood cognitive development and neuroscience.'
         },
         {
           name: 'James Lin',
           image: '/images/bio/james.png',
           bio: 'James Lin is a junior at The Harker School. He is a USACO platinum contestant, three-time AIME qualifier, and USAJMO qualifier. He has also competed in many math and computer science competitions, such as SMT, Teamscode, and LIT. In his free time, he reads and listens to music.'
+        },
+        {
+          name: 'Samuel Tong',
+          image: '/images/bio/samuel.png',
+          bio: 'Samuel is a junior at The Harker School. He competes in the USACO Gold division, and he uses his expertise in computer science on bioinformatics and drug reaction models. Samuel is a retired fencer, and he loves watching dramas and walking his dog.'
         }
       ]
     }

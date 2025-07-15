@@ -8,7 +8,7 @@ instructor: Yash Belani and Ryan Miao
 description: 'This eight-class course is designed to teach students concepts that appear frequently in the USACO Silver division and in other major programming competitions. Classes will consist of a lecture and a problem-solving session, and homework will be assigned weekly.'
 registration: 'https://forms.gle/dJLgmszGEUgNK7Pz7'
 type: 'Online Class'
-open: True
+open: False
 season: 'Spring 2025'
 ---
 
