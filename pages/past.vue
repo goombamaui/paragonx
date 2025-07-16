@@ -96,7 +96,7 @@ export default {
         },
         {
           name: 'Alex Huang',
-          title: 'University of Virginia \'29',
+          title: 'University of Southern California \'29',
           image: '/images/bio/alex.jpg',
           bio: 'Alex Huang graduated from The Harker School in 2025 and is a 2021 MathCounts National Round qualifier, four-time AIME qualifier, participant in The Ross Mathematics Program 2023 and 2024, and PRIMES-USA 2024 researcher. Fluent in C++, Java, and Python, he enjoys applying scientific machine learning to elucidate biophysical processes. To disseminate his knowledge to aspiring students, he has led volunteer teaching initiatives and has won the President\'s Volunteer Service Gold Award three times. In his free time, he enjoys playing bridge and engaging friends in thought-provoking conversations.'
         },
