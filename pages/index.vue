@@ -278,6 +278,11 @@ export default {
           name: 'Mitosisphere',
           image: '/images/partners/mitosisphere.png',
           link: 'https://mitosisphere.org/'
+        },
+        {
+          name: 'BioCataalysis',
+          image: '/images/partners/biocataalysis.png',
+          link: 'https://biocataalysis.org'
         }
       ]
     }
