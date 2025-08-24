@@ -66,6 +66,11 @@ export default {
           name: 'Andrew Shi',
           image: '/images/bio/andrewshi.jpg',
           bio: 'Andrew Shi is a sophomore at The Harker School. He is a USACO Platinum contestant and qualified once for the USAJMO, receiving an honorable mention. If he had to choose between math and CS, he would pick math. When not programming with his friends or doing math, you may find him playing tennis.'
+        },
+        {
+          name: 'Benjamin Tang',
+          image: '/images/bio/ben.jpg',
+          bio: 'Benjamin Tang is a freshman at Del Norte High School in San Diego, California. He is interested in subjects that require critical thinking, like physics, math, coding, and chess, as he is a 3x AIME, USACO Silver qualifier, and chess FIDE Master. In his free time, Benjamin likes to hike and run (despite being very bad), code useless fun coding projects, and play board games.'
         }
       ],
       cs: [
@@ -79,7 +84,7 @@ export default {
           name: 'Ellie Zhou',
           title: 'Head of Computer Science',
           image: '/images/bio/ellie.png',
-          bio: 'Ellie is a junior at The Harker School. She is competing in USACO gold, has qualified for AIME several times, won awards at the Synopsys Science Fair for her research, and loves learning about and working on AI & computer vision projects. She also led a team making it to the Wharton Global High School Investment Competition finale. In her free time, she enjoys swimming, dancing, and playing with her dog. She is excited to spread her love of computer science and help students see how powerful and amazing it can be!'
+          bio: 'Ellie is a junior at Westmont High School. She is competing in USACO gold, has qualified for AIME several times, won awards at the Synopsys Science Fair for her research, and loves learning about and working on AI & computer vision projects. She also led a team making it to the Wharton Global High School Investment Competition finale. In her free time, she enjoys swimming, dancing, and playing with her dog. She is excited to spread her love of computer science and help students see how powerful and amazing it can be!'
         },
         {
           name: 'Ryan Miao',
@@ -133,6 +138,11 @@ export default {
           name: 'Eric Dong',
           image: '/images/bio/eric.jpg',
           bio: 'Eric Dong is a senior at The Harker School. He is active in STEM competitions, having competed in, earned awards in, and prepared for the AMC, AIME, BMT, SMT, F=ma, and USAAAO. He is also a president of his school’s astronomy club and an active member of the science bowl team. He also enjoys engaging in research, having interned at UC Davis and having worked on a project about neutron star habitability. Outside of STEM, he is an avid clarinetist and competitive swimmer.'
+        },
+        {
+          name: 'Alex Jin',
+          image: '/images/bio/alexj.jpg',
+          bio: 'Alex Jin is a rising senior from Southridge School in Vancouver, Canada. Having qualified for the Canadian National IOAA Training Camp and the Canadian Junior Physics Olympiad (where he won second place), he hopes to make others love physics as much as he does. He is currently doing theoretical cosmology research and likes to play chess and soccer in his spare time.'
         }
       ],
       chem: [
@@ -179,6 +189,11 @@ export default {
           name: 'Sid Gaur',
           image: '/images/bio/sid.png',
           bio: 'Sid Gaur is a sophomore at The Harker School. He earned 2nd place statewide at both the California Science and Engineering Fair and the Synopsys Science and Engineering Fair. He was also recognized as a finalist in the Harvard Undergraduate Research Journal Competition. At Harker, he serves as Co-Captain of the Science Bowl Team. Outside of science, Sid enjoys playing badminton and singing in choir.'
+        },
+        {
+          name: 'Melody Wang',
+          image: '/images/bio/melody.png',
+          bio: 'Melody Wang is a high school junior at Basis Independent Fremont. She is a USABO semifinalist and a BBO gold medalist. She leads the Neuroscience Club at her school and also teaches dance at different community organizations. She is also passionate about research, competing in the  California Science and Engineering Fair and also getting into Broadcom Masters Top 300. In her spare time she enjoys nature walks and baking.'
         }
       ],
       outreach: [
