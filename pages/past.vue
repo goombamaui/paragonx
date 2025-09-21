@@ -139,6 +139,16 @@ export default {
           name: 'Samuel Tong',
           image: '/images/bio/samuel.png',
           bio: 'Samuel is a senior at The Harker School. He competes in the USACO Gold division, and he uses his expertise in computer science on bioinformatics and drug reaction models. Samuel is a retired fencer, and he loves watching dramas and walking his dog.'
+        },
+        {
+          name: 'Suhani Pahuja',
+          image: '/images/bio/suhani.jpg',
+          bio: 'Suhani is a senior at Monta Vista High School in Cupertino, California. She is a multiple-time AIME qualifier with a high score of 7 and has earned awards at competitions like PUMaC, SMT, and BMT as well. Suhani is very passionate about teaching mathematics and spreading her knowledge, and is also the president of her school’s math club and an officer since her sophomore year. Suhani is also an avid researcher, competing in regional and state-level research competitions such as Synopsys, JSHS, and CSEF, and publishing her work in journals as well. Apart from math and pursuing research, she has profound interests in biology and physics as well, challenging herself with rigorous coursework and competing and earning awards in the USABO open exam. In her free time, Suhani enjoys running, playing piano, and spending time with her friends and family.'
+        },
+        {
+          name: 'Sid Gaur',
+          image: '/images/bio/sid.png',
+          bio: 'Sid Gaur is a sophomore at The Harker School. He earned 2nd place statewide at both the California Science and Engineering Fair and the Synopsys Science and Engineering Fair. He was also recognized as a finalist in the Harvard Undergraduate Research Journal Competition. At Harker, he serves as Co-Captain of the Science Bowl Team. Outside of science, Sid enjoys playing badminton and singing in choir.'
         }
       ]
     }

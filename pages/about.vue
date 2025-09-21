@@ -58,11 +58,6 @@ export default {
           bio: 'Anushka Polapally is a senior at Obra D. Tompkins High School in Katy, Texas. She is an AIME qualifier and USACO Silver qualifier, along with being an officer of her school’s math club. Anushka is very passionate about teaching competition math to others, shown by her contribution to forming a contest math team and classes at her high school. In her free time, you can find Anushka listening to music, playing with her dog, and eating food with her friends.'
         },
         {
-          name: 'Suhani Pahuja',
-          image: '/images/bio/suhani.jpg',
-          bio: 'Suhani is a senior at Monta Vista High School in Cupertino, California. She is a multiple-time AIME qualifier with a high score of 7 and has earned awards at competitions like PUMaC, SMT, and BMT as well. Suhani is very passionate about teaching mathematics and spreading her knowledge, and is also the president of her school’s math club and an officer since her sophomore year. Suhani is also an avid researcher, competing in regional and state-level research competitions such as Synopsys, JSHS, and CSEF, and publishing her work in journals as well. Apart from math and pursuing research, she has profound interests in biology and physics as well, challenging herself with rigorous coursework and competing and earning awards in the USABO open exam. In her free time, Suhani enjoys running, playing piano, and spending time with her friends and family.'
-        },
-        {
           name: 'Andrew Shi',
           image: '/images/bio/andrewshi.jpg',
           bio: 'Andrew Shi is a sophomore at The Harker School. He is a USACO Platinum contestant and qualified once for the USAJMO, receiving an honorable mention. If he had to choose between math and CS, he would pick math. When not programming with his friends or doing math, you may find him playing tennis.'
@@ -132,7 +127,7 @@ export default {
         {
           name: 'Andy Long',
           image: '/images/bio/andy.webp',
-          bio: 'Andy is a junior at Seven Lakes High School in Katy, Texas. He is really passionate about physics and is a 2x USAAAO semifinalist, TXSEF finalist, president of his school’s Physics Club, an officer for his school’s astronomy club, and a bronze medalist at the National Astronomy Competition. This summer he will be participating in the Astrophysics program at SSP and in his free time he really enjoys playing pickleball and going out with friends.'
+          bio: 'Andy is a senior at Seven Lakes High School in Katy, Texas. He is really passionate about physics and is a 2x USAAAO semifinalist, TXSEF finalist, president of his school’s Physics Club, an officer for his school’s astronomy club, and a bronze medalist at the National Astronomy Competition. This summer he will be participating in the Astrophysics program at SSP and in his free time he really enjoys playing pickleball and going out with friends.'
         },
         {
           name: 'Eric Dong',
@@ -184,11 +179,6 @@ export default {
           name: 'Annie Yu',
           image: '/images/bio/annie.png',
           bio: 'Annie Yu is a sophomore at The Harker School. She is a biology coach for Harker’s Middle School Science Bowl team and has taught at various other organizations. In her free time, she enjoys reading and writing literature, volunteering, and reading Campbell Biology.'
-        },
-        {
-          name: 'Sid Gaur',
-          image: '/images/bio/sid.png',
-          bio: 'Sid Gaur is a sophomore at The Harker School. He earned 2nd place statewide at both the California Science and Engineering Fair and the Synopsys Science and Engineering Fair. He was also recognized as a finalist in the Harvard Undergraduate Research Journal Competition. At Harker, he serves as Co-Captain of the Science Bowl Team. Outside of science, Sid enjoys playing badminton and singing in choir.'
         },
         {
           name: 'Melody Wang',
