@@ -9,7 +9,7 @@ description: 'This four-course is designed for students who want to master the F
 
 registration: 'https://forms.gle/mosgGEgxLbW4cmyJ6'
 type: 'Online Class'
-open: True
+open: False
 season: 'Summer 2025'
 ---
 

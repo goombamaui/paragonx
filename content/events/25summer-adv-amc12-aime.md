@@ -9,7 +9,7 @@ description: 'This four-week course is for students in 12th grade and below aimi
 
 registration: 'https://forms.gle/mPzfzxVbKcWDwxuBA'
 type: 'Online Class'
-open: True
+open: False
 season: 'Summer 2025'
 ---
 

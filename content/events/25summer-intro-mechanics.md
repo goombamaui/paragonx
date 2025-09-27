@@ -9,7 +9,7 @@ description: 'This four-week course will kickstart a journey into physics by cov
 
 registration: 'https://forms.gle/gnWdm7nR28B7gyKi9'
 type: 'Online Class'
-open: True
+open: False
 season: 'Summer 2025'
 ---
 

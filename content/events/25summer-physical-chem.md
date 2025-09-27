@@ -9,7 +9,7 @@ description: 'This four-week course is for students who already have a solid fou
 
 registration: 'https://forms.gle/F1DrQZ82LMf4hFQi8'
 type: 'Online Class'
-open: True
+open: False
 season: 'Summer 2025'
 ---
 

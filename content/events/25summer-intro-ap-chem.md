@@ -9,7 +9,7 @@ description: 'This four-week course is designed for students who already have ba
 
 registration: 'https://forms.gle/MqwWuxrLXxo6EoWD9'
 type: 'Online Class'
-open: True
+open: False
 season: 'Summer 2025'
 ---
 

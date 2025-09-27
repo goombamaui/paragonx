@@ -9,7 +9,7 @@ description: 'This four-week course is for students (in 10th grade or below) aim
 
 registration: 'https://forms.gle/tYGqpiCdqZocATY46'
 type: 'Online Class'
-open: True
+open: False
 season: 'Summer 2025'
 ---
 

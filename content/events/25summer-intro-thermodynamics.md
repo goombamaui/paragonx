@@ -9,7 +9,7 @@ description: 'This course is intended for students who have completed high schoo
 
 registration: 'https://forms.gle/XHurzq3Ak3NHCw2u8'
 type: 'Online Class'
-open: True
+open: False
 season: 'Summer 2025'
 ---
 

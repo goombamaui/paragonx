@@ -9,7 +9,7 @@ description: 'This four-week course is designed to teach students concepts that 
 
 registration: 'https://forms.gle/dx5oGkAvBKznSp5R9'
 type: 'Online Class'
-open: True
+open: False
 season: 'Summer 2025'
 ---
 

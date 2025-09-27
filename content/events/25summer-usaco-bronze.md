@@ -9,7 +9,7 @@ description: 'This is a four-week course designed to teach students the fundamen
 
 registration: 'https://forms.gle/AcAymjQ4HVvJasKi6'
 type: 'Online Class'
-open: True
+open: False
 season: 'Summer 2025'
 ---
 

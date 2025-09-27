@@ -9,7 +9,7 @@ description: 'This four-week course is designed for individuals with a backgroun
 
 registration: 'https://forms.gle/qyeN6Pj6SC2HXREv7'
 type: 'Online Class'
-open: True
+open: False
 season: 'Summer 2025'
 ---
 

@@ -9,7 +9,7 @@ description: 'This four-week course is designed for middle and high school stude
 
 registration: 'https://docs.google.com/forms/d/e/1FAIpQLScRruzOBgVcUg5cVpK_s4LKcPavW5ZkymMucs8pcd7x30g3Xg/viewform'
 type: 'Online Class'
-open: True
+open: False
 season: 'Summer 2025'
 ---
 
