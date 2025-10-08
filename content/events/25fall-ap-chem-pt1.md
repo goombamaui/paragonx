@@ -5,7 +5,7 @@ time: 'Sunday 8:00 AM-9:30 AM PT'
 dateStart: '2025-10-12'
 dateEnd: '2025-01-04'
 instructor: Kevin He
-description: 'This 12 week class is the first of a 24-class offering (classes 13-24 will be offered in the Spring session) which will cover the full curriculum covered on the AP® Chemistry Exam.'
+description: 'This 12 week class is the first of a 24-class offering (classes 13 through 24 will be offered in the Spring session) which will cover the full curriculum covered on the AP® Chemistry Exam.'
 
 registration: 'https://forms.gle/uptCCPtYWVn5yYfe9'
 type: 'Online Class'
