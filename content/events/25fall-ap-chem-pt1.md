@@ -1,7 +1,7 @@
 ---
 title: 'AP Chemistry Part 1'
 location: Zoom
-time: 'Sunday 8:00 PM-9:30 PM PT'
+time: 'Sunday 8:00 AM-9:30 AM PT'
 dateStart: '2025-10-12'
 dateEnd: '2025-01-04'
 instructor: Kevin He
