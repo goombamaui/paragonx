@@ -202,6 +202,11 @@ export default {
           name: 'Jiaqi Wu',
           image: '/images/bio/jiaqi.jpeg',
           bio: 'Jiaqi Wu is a senior at Harvard-Westlake School. She is a US Physics Camp attendee, NAC gold medalist and Math Prize for Girls qualifier. Outside of physics and math, she likes to read and make desserts.'
+        },
+        {
+          name: 'Mason Chang',
+          image: '/images/bio/mason.png',
+          bio: 'Mason Chang is a freshman at the Harker School. He has received an honorable Mention in the USMDO, and serves as the officer of outreach at the Harker Data Science Club. Last summer, he worked on an independent research project, collecting data worldwide and coming to conclusions on how much impact certain lifestyle habits have on mental health and daily stress levels, submitting his findings to a panel of college professors and industry professionals. He also conducts wet-lab experiments at home, running gel electrophoresis and isolating DNA from a pineapple using household materials. In his free time outside of biology, he enjoys piano and basketball.'
         }
       ]
     }
