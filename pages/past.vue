@@ -149,6 +149,11 @@ export default {
           name: 'Sid Gaur',
           image: '/images/bio/sid.png',
           bio: 'Sid Gaur is a sophomore at The Harker School. He earned 2nd place statewide at both the California Science and Engineering Fair and the Synopsys Science and Engineering Fair. He was also recognized as a finalist in the Harvard Undergraduate Research Journal Competition. At Harker, he serves as Co-Captain of the Science Bowl Team. Outside of science, Sid enjoys playing badminton and singing in choir.'
+        },
+        {
+          name: 'Jiaqi Wu',
+          image: '/images/bio/jiaqi.jpeg',
+          bio: 'Jiaqi Wu is a senior at Harvard-Westlake School. She is a US Physics Camp attendee, NAC gold medalist and Math Prize for Girls qualifier. Outside of physics and math, she likes to read and make desserts.'
         }
       ]
     }

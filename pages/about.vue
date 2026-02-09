@@ -66,6 +66,11 @@ export default {
           name: 'Benjamin Tang',
           image: '/images/bio/ben.jpg',
           bio: 'Benjamin Tang is a freshman at Del Norte High School in San Diego, California. He is interested in subjects that require critical thinking, like physics, math, coding, and chess, as he is a 3x AIME, USACO Silver qualifier, and chess FIDE Master. In his free time, Benjamin likes to hike and run (despite being very bad), code useless fun coding projects, and play board games.'
+        },
+        {
+          name: 'Vihaan Gupta',
+          image: '/images/bio/vihaan.jpeg',
+          bio: 'Vihaan Gupta is a sophomore at the Harker School interested in various STEM subjects. He is a 6x AIME Qualifier, USA(J)MO Top Honors, and SMT/BMT Top 10 recipient. In his free time, he enjoys playing all sorts of games with his friends.'
         }
       ],
       cs: [
@@ -197,11 +202,6 @@ export default {
           name: 'Akshitaa Arun',
           bio: 'Akshitaa Arun (Akshu/Ash) is a senior in Tamil Nadu, India. She has attended various math camps in India such as PROMYS INDIA 2024, RAMTP 2023, AGMNC 2022 & 2023. She is a teaching assistant Athemath, a part of the international outreach team of URBAN HARMONY PROJECT and runs NC^2! She enjoys tutoring outside school, and showing people that math can be fun! She loves puzzles (especially sudoku) and singing!',
           image: '/images/bio/akshitaa.png'
-        },
-        {
-          name: 'Jiaqi Wu',
-          image: '/images/bio/jiaqi.jpeg',
-          bio: 'Jiaqi Wu is a senior at Harvard-Westlake School. She is a US Physics Camp attendee, NAC gold medalist and Math Prize for Girls qualifier. Outside of physics and math, she likes to read and make desserts.'
         },
         {
           name: 'Mason Chang',
