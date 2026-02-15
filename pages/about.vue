@@ -105,6 +105,11 @@ export default {
           name: 'Rachel Li',
           image: '/images/bio/rachel.jpg',
           bio: 'Rachel is a sophomore at The Harker School. She is currently a USACO silver competitor and has experience coding in C++, Python, and Java. She has also qualified for AIME and received category awards in both local and state science fairs. In her free time, she builds mini dollhouse kits.'
+        },
+        {
+          name: 'Avi Malhotra',
+          image: 'images/bio/avi.jpeg',
+          bio: 'Avi Malhotra is a freshman at Fremont High School in California. He is interested in math, computer science, physics, and robotics. He is an AIME qualifier, USACO Silver, BMT DHM, and loves making random machine learning models(especially in the field of medicine). In his free time, he likes to play tennis, basketball, and spend time with friends.'
         }
       ],
       physics: [
